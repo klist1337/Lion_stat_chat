@@ -1,0 +1,3355 @@
+{
+    "intents": [
+        {
+            "tag": "Capteur Meteor",
+            "patterns": [
+                "capteur meteor",
+                "questce capteur meteor footbar"
+            ],
+            "responses": [
+                "Le capteur Meteor de Footbar est un dispositif révolutionnaire conçu pour mesurer les performances des joueurs de football pendant un match. Il fournit des données précises aux joueurs, les aidant ainsi à évaluer leurs performances physiques et techniques."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Fondateurs Footbar",
+            "patterns": [
+                "fondateurs footbar",
+                "fondateurs footbar quelle histoire"
+            ],
+            "responses": [
+                "Les fondateurs de Footbar sont Sylvain Ract et Loïc Manent, deux jeunes ingénieurs passionnés de football. Ils ont créé le capteur Meteor dans le but d'améliorer les performances des joueurs en leur fournissant des données exploitables. Par la suite, Jacques D’Arrigo, ancien directeur chez Nike et aux Girondins de Bordeaux, a rejoint l'équipe pour aider à commercialiser le produit."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Mission Footbar",
+            "patterns": [
+                "mission footbar",
+                "quelle mission footbar"
+            ],
+            "responses": [
+                "La mission de Footbar est de démocratiser l'accès à l'intelligence artificielle dans le football en fournissant aux joueurs des données précises et exploitables sur leurs performances. Ils croient en l'importance de l'analyse des statistiques pour permettre aux joueurs de progresser, de se fixer des objectifs et de se motiver."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Evolution Capteur",
+            "patterns": [
+                "evolution capteur",
+                "comment capteur meteor footbar atil évolué fil temps"
+            ],
+            "responses": [
+                "Le capteur Meteor de Footbar a considérablement évolué au fil des ans, devenant plus petit tout en améliorant sa précision et son expérience utilisateur. Il est alimenté par une intelligence artificielle qui ingère des millions de gestes techniques, offrant ainsi des données d'une précision accrue à chaque instant."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Engagement Communauté",
+            "patterns": [
+                "engagement communauté",
+                "quel lengagement footbar envers communauté football"
+            ],
+            "responses": [
+                "Footbar est fier de soutenir tous les joueurs et joueuses de football dans la pratique régulière de leur activité physique. Ils travaillent en étroite collaboration avec des clubs, des entraîneurs et des athlètes professionnels pour améliorer leur technologie et offrir des solutions adaptées à chacun. Ils mettent également l'accent sur l'inclusion en soutenant le football féminin et en accompagnant les jeunes joueurs à travers divers ateliers."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Localisation Footbar",
+            "patterns": [
+                "localisation footbar",
+                "où située footbar quels avantages tiretelle"
+            ],
+            "responses": [
+                "Footbar est actuellement hébergé au sein de l'incubateur de start-up Le Tremplin, qui accueille principalement des entreprises innovantes dans le domaine du sport. En tant que membre intégré de la Sportech, Footbar bénéficie d'un environnement propice à l'innovation et à la collaboration avec d'autres acteurs du secteur."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Votre Histoire",
+            "patterns": [
+                "histoire"
+            ],
+            "responses": [
+                "Deux jeunes ingénieurs, Sylvain Ract et Loïc Manent, créent le capteur Meteor pour mesurer les performances lors d’un match de football. Footbar réalise cette idée en offrant des données aux joueurs pour évaluer leurs performances. Jacques D’Arrigo, ancien directeur chez Nike et aux Girondins de Bordeaux, rejoint Footbar pour commercialiser notre capteur. Footbar signe un partenariat avec Decathlon, rendant le produit accessible au grand public. L’application grand public est lancée, permettant à chacun d’accéder à ses statistiques et de participer à un classement pour favoriser la progression. En 2022, Stéphane Martin, ancien président des Girondins de Bordeaux, nous rejoint en tant que CEO. Nous étendons notre développement à l’international, notamment aux Pays-Bas, en Espagne et aux Émirats Arabes Unis."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Mission Footbar",
+            "patterns": [
+                "missionfootbar",
+                "mission démocratiser laccès lintelligence artificielle football"
+            ],
+            "responses": [
+                "Notre mission est d'aider les pratiquants de football à atteindre leur plein potentiel en leur fournissant des données précises et exploitables sur leurs performances. Nous croyons en l'importance de l'analyse des statistiques pour permettre aux joueurs de progresser, de se fixer des objectifs et de se motiver. Nos valeurs sont Passion, Diversité et Excellence."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Evolution Meteor",
+            "patterns": [
+                "evolution meteor",
+                "levolution meteor"
+            ],
+            "responses": [
+                "Au fil des années, le Meteor a considérablement évolué, réduisant sa taille tout en améliorant considérablement sa précision et son expérience utilisateur, ce qui en fait aujourd'hui une référence incontournable dans l'analyse de données pour les amateurs de football. Alimenté par une intelligence artificielle qui ingère des millions de gestes techniques, le Meteor fournit des données d'une précision accrue à chaque instant, offrant ainsi une solution de pointe pour les passionnés de football souhaitant bénéficier d'informations précises et fiables."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Engagement Footbar",
+            "patterns": [
+                "engagement"
+            ],
+            "responses": [
+                "Chez Footbar, nous sommes fiers de soutenir tous les joueurs et joueuses de football à pratiquer une activité physique régulière. Nous travaillons en étroite collaboration avec des clubs, des entraîneurs et des athlètes professionnels pour améliorer notre technologie et offrir des solutions adaptées aux besoins de chacun. Notre mot d’ordre est l’inclusion c’est pourquoi nous mettons l’accent sur la visibilité du football féminin et l’accompagnement des jeunes notamment lors d’ateliers réalisés avec le Red Star."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Equipe Footbar",
+            "patterns": [
+                "lequipe footbar"
+            ],
+            "responses": [
+                "En tant qu'équipe jeune et passionnée, notre objectif chez Footbar est d'écrire l'histoire de plus de 300 millions de footballeurs en leur fournissant les outils nécessaires pour valoriser leurs données. Faire partie de la team Footbar, c'est rejoindre une équipe de football où passion, diversité et excellence sont des valeurs essentielles. Nous sommes déterminés à accompagner les footballeurs dans leur parcours et à leur offrir des outils pour exploiter pleinement leurs données."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Footbar Sportech",
+            "patterns": [
+                "footbar sportech",
+                "footbar sein sportech"
+            ],
+            "responses": [
+                "Footbar est actuellement hébergé au sein de l'incubateur de start-up Le Tremplin, qui accueille principalement des entreprises innovantes dans le domaine du sport. En tant que membre intégré de la Sportech, Footbar bénéficie d'un environnement propice à l'innovation et à la collaboration avec d'autres acteurs du secteur."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Vue statistique",
+            "patterns": [
+                "vue statistique",
+                "où estce vais voir stats",
+                "comment puisje interpréter stats apparaissent vue profil"
+            ],
+            "responses": [
+                "Il te suffit tout simplement d'aller sur ton profil et ensuite de cliquer sur 'Activité' en haut à gauche pour accéder non seulement aux données de ta session mais aussi à l'historique de toutes tes sessions précédentes.",
+                "Sur la vue profil il y a plusieurs informations qu'il est important de savoir différencier ! Tout d'abord, tu as l’ensemble de tes statistiques cumulées sur la saison en cours et juste en dessous la distance que tu as parcouru par mois. Pour la vue du bas avec le détail des statistiques, elle correspond à l’évolution de ton profil au fil de tes séances et il y a plusieurs choses à analyser."
+            ]
+        },
+        {
+            "tag": "Profils multiples",
+            "patterns": [
+                "profils multiples",
+                "estce peux créer plusieurs profils compte"
+            ],
+            "responses": [
+                "Le mieux est de créer deux comptes utilisateurs (un à votre nom, l'autre au nom de la deuxième personne). Tu peux utiliser un même capteur sur deux comptes différents mais pas en simultané. Nous recommandons cependant le système suivant : un capteur = un profil = un téléphone."
+            ]
+        },
+        {
+            "tag": "Capteur déconnecté",
+            "patterns": [
+                "capteur déconnecté",
+                "capteur footbar marqué comme déconnecté estce normal yatil problème",
+                "faire si lappli détecte capteur lors lallumage"
+            ],
+            "responses": [
+                "C’est tout à fait normal car ton capteur n’a pas besoin d’être connecté à ton téléphone lorsque tu joues. Donc si le capteur a bien été allumé, il n’a aucun problème. Il suffit de te reconnecter à ton capteur après ta session, de l’éteindre et de télécharger les données. Le capteur fonctionne indépendamment du téléphone et de sa connexion. Lorsque tu retournes sur l’écran d’accueil contenant le bouton central, il sera toujours vert avec écrit 'ton capteur est allumé'. Vérifie que le bluetooth est activé et que le capteur clignote lorsqu’il est branché. Si le problème persiste, contacte-nous via la bulle en bas à droite de l'écran."
+            ]
+        },
+        {
+            "tag": " Mémoire pleine",
+            "patterns": [
+                "mémoire pleine",
+                "aperçue navais plus mémoire comment enregistrer performances précédentes"
+            ],
+            "responses": [
+                "La mémoire du capteur est différente de celle de nos serveurs. Il faut toutefois que tu penses à bien vider régulièrement ton capteur en cliquant sur “télécharger ta session”. Il n'y a pas de 'limite' de mémoire pour les séances sur notre serveur donc pas besoin de les effacer. En revanche, la mémoire du capteur a ses limites donc pense à télécharger ta session régulièrement."
+            ]
+        },
+        {
+            "tag": "Sélection du type de jeu",
+            "patterns": [
+                "sélection type jeu",
+                "peux sélectionner foot 7 foot 8 comment fais"
+            ],
+            "responses": [
+                "Effectivement nous n'avons pas de jeu à 7/8 à proprement parler. En réalité, notre intelligence artificielle calcule en fonction de la taille du terrain et analyse de deux manières : grand terrain et jeu réduit qui comprend les foot à 5/7/8. Et sur grand terrain uniquement le foot à 11. Ces choix s’expliquent pour des raisons de design liées à notre application."
+            ]
+        },
+        {
+            "tag": "Déconnexion du compte",
+            "patterns": [
+                "déconnexion compte",
+                "comment puisje déconnecter compte"
+            ],
+            "responses": [
+                "Il suffit de te rendre dans l’onglet 'Profil', cliquer sur le l’icône 'Réglage' en haut à droite, puis encore en haut à droite sur l'icône 'Sortie / Se déconnecter'."
+            ]
+        },
+        {
+            "tag": "Mode championnat",
+            "patterns": [
+                "mode championnat",
+                "comment fonctionne mode championnat"
+            ],
+            "responses": [
+                "Dans le championnat, les règles sont simples : plus tu joues au foot pendant la semaine, plus tu cumules des points pour passer devant tes adversaires. Chaque semaine, tu rejoins aléatoirement une poule de 20 nouveaux adversaires dans l'une des 10 divisions qui te correspond. A toi de prouver que tu es le meilleur de ton groupe : à la fin de chaque semaine, les trois premiers montent en division supérieure et les trois derniers descendent."
+            ]
+        },
+        {
+            "tag": "Fonctionnalité Booster",
+            "patterns": [
+                "fonctionnalité booster",
+                "comment fonctionne booster"
+            ],
+            "responses": [
+                "Le booster permet de multiplier les points obtenus par un utilisateur lors d’une session selon sa division. Le booster est de x1 lorsque tu es en D10 et augmente de +1 lorsque tu passes à la division supérieur pour atteindre x10 lorsque tu seras en D1. Plus tu te situes proches de la D1, plus ton booster est important et donc plus les points que te rapporteront tes séances seront élevés."
+            ]
+        },
+        {
+            "tag": "Diminution des points en juillet",
+            "patterns": [
+                "diminution points juillet",
+                "pourquoi points diminuent juillet"
+            ],
+            "responses": [
+                "Chaque été, la saison en cours prend fin, et les points d'expérience de ta carte Footbar redescendent à 10, comme lorsque tu as commencé sur Footbar. Pas de panique, les points reviennent vite si tu avais un bon niveau la saison précédente. C'est l'occasion de tout donner lors de la nouvelle saison !"
+            ]
+        },
+        {
+            "tag": "Modifier les détails de la session",
+            "patterns": [
+                "modifier détails session",
+                "estce peux modifier caractéristiques session poste type session horaire début fin lapplication"
+            ],
+            "responses": [
+                "Lorsque tu es sur le récap de ta session, clique sur l'icône en haut à droite et ensuite sur 'modifier'. Tu as ensuite la possibilité de sélectionner ton poste, le type de session ainsi l'heure de début et fin de ta séance avant de 'valider'."
+            ]
+        },
+        {
+            "tag": "Qu'est-ce que le capteur Footbar",
+            "patterns": [
+                "questce capteur footbar",
+                "questce capteur footbar"
+            ],
+            "responses": [
+                "Il s’agit d’un capteur de 8 grammes et 8 mm d’épaisseur qui évalue les performances des footballeuses et footballeurs selon une douzaine de critères grâce à un accéléromètre couplé à une intelligence artificielle (IA)."
+            ]
+        },
+        {
+            "tag": "Différence footbar avec le GPS",
+            "patterns": [
+                "quelle différence footbar gps"
+            ],
+            "responses": [
+                "Un GPS fonctionne avec la localisation tandis que notre capteur footbar comprend les mouvements du corps sans connaître la position. Les deux sont parfaitement complémentaires."
+            ]
+        },
+        {
+            "tag": "Confort pendant le jeu",
+            "patterns": [
+                "confort pendant jeu",
+                "capteur estil gênant jouer"
+            ],
+            "responses": [
+                "Non ! Ultra léger, fin et petit, le Meteor se place au niveau du mollet, en dessous de ta chaussette. Il ne gêne absolument pas les mouvements du joueur ou de la joueuse, qui oubliera immédiatement qu'il/elle porte un capteur."
+            ]
+        },
+        {
+            "tag": "Utilisation de la sangle",
+            "patterns": [
+                "utilisation sangle",
+                "sangle"
+            ],
+            "responses": [
+                "Sa conception a été pensée pour une utilisation plus confortable et les nombreux retours d’utilisateur.ice.s attestent de cela."
+            ]
+        },
+        {
+            "tag": "Positionnement du capteur",
+            "patterns": [
+                "positionnement capteur",
+                "puisje porter capteur footbar ailleurs mollet"
+            ],
+            "responses": [
+                "Non, mauvaise idée. Notre R&D (recherche et développement) est pour le moment élaborée en fonction de la position 'haut du mollet de frappe'. Le porter ailleurs équivaut à donner de fausses informations de jeu au capteur, qui ne pourra calculer de manière précise vos stats !"
+            ]
+        },
+        {
+            "tag": "Utilisation du pied faible",
+            "patterns": [
+                "utilisation pied faible",
+                "estce capteur footbar prend compte données mauvais pied"
+            ],
+            "responses": [
+                "On te conseille de porter le capteur sur ta jambe forte car c’est là que tu obtiendras de meilleures statistiques mais rien ne t’empêche de comparer avec l’autre jambe et de constater la différence. Aujourd'hui notre intelligence artificielle n'est pas encore capable de repérer les passes et tirs effectués avec la jambe ne portant pas le capteur. Cependant nous continuons de travailler dessus pour pallier cela."
+            ]
+        },
+        {
+            "tag": "Utilisation en matchs officiels",
+            "patterns": [
+                "utilisation matchs officiels",
+                "estce peux utiliser capteur match officiel"
+            ],
+            "responses": [
+                "Comme il est caché sous la chaussette, tu peux l’utiliser pendant les matchs à niveau amateur, sous réserve du règlement du district. Nous te recommandons de demander l’accord à l'arbitre. Aujourd’hui, les joueuses de l’équipe pro du Luxembourg portent notre capteur en plus de clubs qui l’utilisent lors de leurs matchs du weekend."
+            ]
+        },
+        {
+            "tag": "Problème de charge",
+            "patterns": [
+                "problème charge",
+                "charge capteur depuis ordinateur jai limpression celuici charge faire"
+            ],
+            "responses": [
+                "Si le problème persiste malgré tout, envoie un mail à notre équipe support en nous décrivant ton problème ou contacte nous sur nos réseaux Instagram et Facebook."
+            ]
+        },
+        {
+            "tag": " Téléphone à proximité pendant le jeu",
+            "patterns": [
+                "téléphone proximité pendant jeu",
+                "obligé garder téléphone côté quand joue"
+            ],
+            "responses": [
+                "Non, une fois le capteur allumé, l’application peut être fermée et le téléphone rangé. Le bluetooth n’intervient que pour allumer/éteindre le capteur, puis pour le téléchargement des données à la fin de ton match ou de ton entraînement."
+            ]
+        },
+        {
+            "tag": "Distance maximale téléphone-capteur",
+            "patterns": [
+                "distance maximale téléphonecapteur",
+                "quelle distance maximum peutil avoir entre téléphone capteur footbar"
+            ],
+            "responses": [
+                "Pour se connecter au Meteor (pour l'allumer, l'éteindre ou télécharger ses données), il faut être proche du capteur à environ de moins de 5 mètres. En revanche, une fois le Meteor allumé, tu peux te déconnecter du téléphone et celui-ci fonctionne en 'autonomie'."
+            ]
+        },
+        {
+            "tag": "Calcul des statistiques",
+            "patterns": [
+                "calcul statistiques",
+                "comment statistiques sontelles calculées"
+            ],
+            "responses": [
+                "Notre capteur enregistre les mouvements de la jambe via un accéléromètre, puis notre Intelligence Artificielle analyse ces données pour déduire les actions sur le terrain telles que les déplacements, passes, frappes et dribbles."
+            ]
+        },
+        {
+            "tag": "Différenciation des tirs et des passes",
+            "patterns": [
+                "différenciation tirs passes",
+                "comment différenciezvous frappes passes longues"
+            ],
+            "responses": [
+                "Notre capteur a été entraîné grâce à des dizaines de milliers d’heures de vidéos pour différencier ces deux gestes."
+            ]
+        },
+        {
+            "tag": "Calcul de la note en étoiles",
+            "patterns": [
+                "calcul note étoiles",
+                "comment calculée note étoile"
+            ],
+            "responses": [
+                "La note en étoile est basée sur les performances des joueurs du même genre, de la même catégorie d'âge et ayant joué à la même position. Tes stats sont comparées aux leurs pour calculer une moyenne ramenée sur 5."
+            ]
+        },
+        {
+            "tag": " Calcul des points de classement",
+            "patterns": [
+                "calcul points classement",
+                "comment calculées points classement"
+            ],
+            "responses": [
+                "Plus tu utilises le capteur, plus tu gagnes de points. Pour plus de détails, consulte les règles du jeu sur l’application."
+            ]
+        },
+        {
+            "tag": "Temps d'activité manquant",
+            "patterns": [
+                "temps dactivité manquant",
+                "jai joué 90 minutes pourtant capteur mindique uniquement 75 minutes comment estce possible"
+            ],
+            "responses": [
+                "Si tu as eu une période d'inactivité en étant immobile (par exemple sur le banc ou au but), le capteur ne comptabilisera pas ce temps d'arrêt pour ne pas fausser tes statistiques."
+            ]
+        },
+        {
+            "tag": " Où acheter",
+            "patterns": [
+                "où acheter",
+                "où estce peux acheter capteur"
+            ],
+            "responses": [
+                "En ligne sur notre propre site Footbar, ainsi que sur nos boutiques Amazon, Décathlon, Intersport. En physique, notre capteur est vendu dans plus de 120 magasins Decathlon et 50 magasins Intersport."
+            ]
+        },
+        {
+            "tag": "Délai de livraison",
+            "patterns": [
+                "délai livraison",
+                "fois commandé quels délais livraison capteur"
+            ],
+            "responses": [
+                "Cela va dépendre du transporteur que tu auras choisi et également de ta situation géographique. Il faut compter le plus souvent au minimum deux jours. Les délais de livraison peuvent s'allonger notamment durant la période des fêtes."
+            ]
+        },
+        {
+            "tag": " Informations sur la garantie",
+            "patterns": [
+                "informations garantie",
+                "atil garantie capteur footbar"
+            ],
+            "responses": [
+                "Bien sûr, en cas de problème technique lié à Footbar, ton Meteor est garanti deux ans. Il est possible de faire un échange sous réserve de retourner le capteur contenant son packaging d’origine, le port USB et la sangle."
+            ]
+        },
+        {
+            "tag": "Installation",
+            "patterns": [
+                "installation",
+                "faire quand reçois capteur",
+                "comment installer capteur footbar"
+            ],
+            "responses": [
+                "Pour installer votre capteur Footbar, assurez-vous que tous les éléments du packaging sont présents : un capteur, une sangle et un adaptateur USB. Ensuite, téléchargez l'application Footbar sur votre smartphone et créez un compte une fois l'application téléchargée."
+            ]
+        },
+        {
+            "tag": "Rechargement",
+            "patterns": [
+                "rechargement",
+                "comment charger capteur",
+                "combien temps fautil recharger capteur footbar"
+            ],
+            "responses": [
+                "Pour charger votre capteur Footbar, branchez-le sur l'adaptateur USB fourni puis sur une prise ou un ordinateur. Le temps moyen de rechargement est d'environ 30 minutes, et son autonomie au repos est d'environ 3 jours. Idéalement, rechargez le capteur 30 minutes avant de jouer ou 1 heure la veille de l'activité."
+            ]
+        },
+        {
+            "tag": "Utilisation",
+            "patterns": [
+                "utilisation",
+                "quelles performances évaluées capteur footbar",
+                "comment utiliser données fournies capteur footbar"
+            ],
+            "responses": [
+                "Le capteur Footbar évalue diverses performances, telles que les tirs, les passes, les dribbles, la possession, la distance parcourue, etc. Ces données peuvent vous aider à comprendre votre style de jeu et à vous comparer à des joueurs professionnels."
+            ]
+        },
+        {
+            "tag": "Allumage du capteur",
+            "patterns": [
+                "allumage capteur",
+                "comment allumer capteur footbar",
+                "quelles étapes mettre marche capteur footbar"
+            ],
+            "responses": [
+                "Pour allumer votre capteur Footbar, connectez votre téléphone à celui-ci via Bluetooth depuis l'onglet 'capteur' de l'application. Ensuite, appuyez sur le gros bouton blanc central sur l'écran d'accueil du capteur. Une fois allumé, le capteur clignotera."
+            ]
+        },
+        {
+            "tag": "Récupération des statistiques",
+            "patterns": [
+                "récupération statistiques",
+                "comment récupérer statistiques après avoir joué",
+                "quelles étapes obtenir données après session"
+            ],
+            "responses": [
+                "Pour récupérer vos statistiques après avoir joué, assurez-vous d'avoir une connexion Internet. Ensuite, réactivez la connexion entre votre téléphone et le capteur depuis l'application, éteignez le capteur et appuyez sur 'Télécharger'. Attendez que le téléchargement soit complet pour voir vos données analysées par votre coach."
+            ]
+        },
+        {
+            "tag": "Fonctionnalités de l'application",
+            "patterns": [
+                "fonctionnalités lapplication",
+                "quelles fonctionnalités disponibles lapplication footbar",
+                "atil vidéo récapitulative fonctionnalités lapplication footbar"
+            ],
+            "responses": [
+                "Une vidéo récapitulative des fonctionnalités de l'application Footbar est disponible pour ne rien manquer. Vous pouvez également nous contacter directement via l'application ou le site web pour toute question supplémentaire."
+            ]
+        },
+        {
+            "tag": "Maintenance du capteur",
+            "patterns": [
+                "maintenance capteur",
+                "comment entretenir capteur footbar",
+                "quelles précautions prendre assurer longévité capteur footbar"
+            ],
+            "responses": [
+                "Pour entretenir votre capteur Footbar, nettoyez-le régulièrement avec un chiffon doux et sec. Évitez de l'exposer à l'eau ou à des températures extrêmes. Assurez-vous également de le ranger dans un endroit sûr lorsqu'il n'est pas utilisé."
+            ]
+        },
+        {
+            "tag": "Compatibilité",
+            "patterns": [
+                "compatibilité",
+                "téléphone estil compatible lapplication footbar",
+                "quels systèmes dexploitation compatibles lapplication footbar"
+            ],
+            "responses": [
+                "L'application Footbar est compatible avec les smartphones fonctionnant sous Android et iOS. Assurez-vous que votre téléphone dispose de la version appropriée du système d'exploitation pour une utilisation optimale."
+            ]
+        },
+        {
+            "tag": "Comparaison de performances",
+            "patterns": [
+                "comparaison performances",
+                "puisje comparer performances dautres utilisateurs capteurs footbar",
+                "estce lapplication footbar propose fonctionnalités comparaison performances"
+            ],
+            "responses": [
+                "L'application Footbar offre la possibilité de comparer vos performances avec celles d'autres utilisateurs de capteurs Footbar. Vous pouvez ainsi évaluer votre progression et vous situer par rapport à la communauté Footbar."
+            ]
+        },
+        {
+            "tag": "Confidentialité des données",
+            "patterns": [
+                "confidentialité données",
+                "comment gérées données lapplication footbar",
+                "quelles garanties confidentialité fournies footbar concernant données"
+            ],
+            "responses": [
+                "Footbar s'engage à protéger la confidentialité de vos données. Elles sont stockées de manière sécurisée et ne sont utilisées que dans le but d'améliorer votre expérience utilisateur et de vous fournir des analyses pertinentes sur votre performance."
+            ]
+        },
+        {
+            "tag": "Dépannage",
+            "patterns": [
+                "dépannage",
+                "faire cas dysfonctionnement capteur footbar",
+                "comment puisje résoudre problèmes techniques capteur footbar"
+            ],
+            "responses": [
+                "En cas de dysfonctionnement du capteur Footbar, assurez-vous qu'il est correctement chargé et que votre téléphone est connecté via Bluetooth. Si les problèmes persistent, contactez le support technique de Footbar pour obtenir de l'aide."
+            ]
+        },
+        {
+            "tag": "Assistance technique",
+            "patterns": [
+                "assistance technique",
+                "comment puisje obtenir laide cas problème technique capteur footbar",
+                "footbar proposetil support technique utilisateurs"
+            ],
+            "responses": [
+                "Pour obtenir de l'aide en cas de problème technique avec votre capteur Footbar, vous pouvez contacter le support technique via l'application ou le site web de Footbar. Notre équipe est là pour vous assister et résoudre vos problèmes rapidement."
+            ]
+        },
+        {
+            "tag": "Feedback et suggestions",
+            "patterns": [
+                "feedback suggestions",
+                "comment puisje partager commentaires suggestions léquipe footbar",
+                "footbar prendil compte retours utilisateurs améliorer produits"
+            ],
+            "responses": [
+                "Votre avis est important pour nous ! Vous pouvez partager vos commentaires et suggestions avec l'équipe Footbar via l'application ou le site web. Nous prenons en compte chaque retour utilisateur pour améliorer continuellement nos produits et services."
+            ]
+        },
+        {
+            "tag": "Intégration avec d'autres applications",
+            "patterns": [
+                "intégration dautres applications",
+                "estce capteur footbar sintègre dautres applications sportives",
+                "footbar proposetil intégrations plateformes tierces"
+            ],
+            "responses": [
+                "Footbar offre des intégrations avec certaines applications sportives populaires pour enrichir votre expérience utilisateur. Consultez notre liste d'applications partenaires pour découvrir les intégrations disponibles et les avantages qu'elles offrent."
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "salut",
+                "comment ça va",
+                "atil quelquun",
+                "bonjour",
+                "bonsoir",
+                "hello",
+                "hey",
+                "ça va",
+                "hi",
+                "coucou"
+            ],
+            "responses": [
+                "Bonjour!",
+                "Content de vous voir!",
+                "Salut, comment puis-je vous aider?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "good bye",
+            "patterns": [
+                "plus tard",
+                "revoir",
+                "bye",
+                "bonne journée"
+            ],
+            "responses": [
+                "Bonne journée",
+                "Triste de vous voir partir :(",
+                "On se reparle plus tard",
+                "Au revoir!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "quel nom",
+                "comment doisje tappeler",
+                "quel nom",
+                "estu",
+                ""
+            ],
+            "responses": [
+                "Je suis votre assistante virtuelle."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "remerciement",
+            "patterns": [
+                "merci beaucoup",
+                "reconnaissante",
+                "cest très gentil part",
+                "tapprécie"
+            ],
+            "responses": [
+                "De rien!",
+                "Je suis heureux/se de pouvoir aider!",
+                "Avec plaisir!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "aide",
+            "patterns": [
+                "aide",
+                "jaimerais demander quelque chose",
+                "peuxtu faire",
+                "peuxtu maider",
+                "puisje dire quelque chose"
+            ],
+            "responses": [
+                "Je suis là pour vous aider!",
+                "Je peux vous aider avec tout ce que vous me demandez."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "compatibilite sports",
+            "patterns": [
+                "compatibilité dautres sports",
+                "peuton utiliser capteur dautres sports football",
+                "capteur estil compatible rugby hockey"
+            ],
+            "responses": [
+                "Le capteur Footbar est conçu spécifiquement pour le football, mais il peut potentiellement être adapté à d'autres sports similaires où les mouvements et les statistiques mesurées sont pertinents, bien que cela nécessite des ajustements et des validations supplémentaires."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "precision mesures",
+            "patterns": [
+                "précision mesures",
+                "fiabilité données fournies capteur",
+                "capteur footbar fournitil mesures précises"
+            ],
+            "responses": [
+                "Les mesures fournies par le capteur Footbar sont scientifiquement validées par des tests de validation Inmotio, ce qui garantit une fiabilité scientifique. Par rapport à d'autres capteurs sur le marché, la précision peut varier en fonction des spécifications techniques et des méthodes de validation utilisées."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "integration appareils",
+            "patterns": [
+                "integration appareils",
+                "intégration dautres appareils",
+                "capteur peutil être connecté dautres appareils",
+                "estce capteur compatible montres connectées"
+            ],
+            "responses": [
+                "Actuellement, le capteur Footbar est principalement conçu pour fonctionner avec son application dédiée sur les plateformes Android (version 6+) et iOS (version 13+). Son intégration avec d'autres appareils ou applications tierces n'est pas mentionnée."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "disponibilite internationale",
+            "patterns": [
+                "disponibilité internationale",
+                "capteur estil disponible dehors leurope",
+                "quels pays peuton procurer capteur"
+            ],
+            "responses": [
+                "Bien que le capteur soit annoncé comme étant le plus vendu en Europe, aucune information spécifique sur sa disponibilité en dehors de l'Europe n'est fournie. Il est recommandé de vérifier auprès du fabricant ou des revendeurs pour obtenir des informations sur la disponibilité dans d'autres régions."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "support client",
+            "patterns": [
+                "support client",
+                "niveau support client disponible",
+                "comment contacter support client cas problème"
+            ],
+            "responses": [
+                "Le niveau de support client n'est pas explicitement détaillé, mais il est probable que le fabricant offre un support client standard, notamment par le biais de l'application, du site web ou d'une ligne d'assistance téléphonique."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "politique confidentialite",
+            "patterns": [
+                "politique confidentialité",
+                "comment protégées données utilisateurs",
+                "données collectées sontelles partagées tiers"
+            ],
+            "responses": [
+                "Les mesures prises pour protéger les données des utilisateurs ne sont pas spécifiées dans les informations fournies. Il est probable que le fabricant ait une politique de confidentialité détaillée disponible sur son site web ou dans l'application, précisant la manière dont les données sont collectées, utilisées et protégées."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "durabilite capteur",
+            "patterns": [
+                "durabilité capteur",
+                "quelle fréquence capteur risquetil tomber panne",
+                "capteur estil sujet détérioration rapide"
+            ],
+            "responses": [
+                "En plus de la garantie de deux ans, aucune information spécifique sur la durabilité à long terme du capteur n'est fournie. Il est recommandé de suivre les instructions d'utilisation et d'entretien fournies par le fabricant pour garantir une durée de vie maximale du produit."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mode emploi detaille",
+            "patterns": [
+                "mode demploi détaillé",
+                "où puisje trouver instructions dutilisation",
+                "capteur estil livré guide dutilisation"
+            ],
+            "responses": [
+                "Il est mentionné qu'une sangle est fournie pour attacher le capteur autour du mollet, mais aucune mention spécifique d'un guide d'utilisation détaillé n'est faite. Il est possible que des instructions d'utilisation soient incluses dans l'emballage du produit ou disponibles en ligne sur le site web du fabricant."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mises jour logicielles",
+            "patterns": [
+                "mises jour logicielles",
+                "comment gérées mises jour lapplication",
+                "utilisateurs sontils informés nouvelles fonctionnalités"
+            ],
+            "responses": [
+                "Aucune information spécifique sur la gestion des mises à jour logicielles n'est fournie. Il est probable que le fabricant informe les utilisateurs des nouvelles fonctionnalités ou des correctifs de bugs via des notifications dans l'application ou des annonces sur son site web."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "retours utilisateurs",
+            "patterns": [
+                "retours dexpérience dutilisateurs",
+                "avis utilisateurs capteur footbar",
+                "existetil témoignages dutilisateurs"
+            ],
+            "responses": [
+                "Il n'est pas mentionné d'avis ou de témoignages d'utilisateurs dans les informations fournies. Cependant, il est possible de trouver des retours d'expérience sur le capteur Footbar en consultant des forums de discussion sur le football ou des sites d'évaluation de produits en ligne."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "footbar",
+            "patterns": [
+                "footbar",
+                "footbar capteur conçu football",
+                "quelles caractéristiques footbar",
+                "pouvezvous donner informations footbar"
+            ],
+            "responses": [
+                "Le Footbar est un capteur conçu pour mesurer diverses données de performance des joueurs de football. Bien qu'il soit principalement axé sur ce sport, il pourrait être adapté à d'autres sports similaires moyennant des ajustements. Les informations couvrent la précision des mesures, l'intégration avec d'autres appareils, la disponibilité internationale, le support client, la confidentialité des données, la durabilité, les mises à jour logicielles et les retours d'expérience."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Records et Objectifs",
+            "patterns": [
+                "records objectifs",
+                "consultation records",
+                "définition objectifs",
+                "meilleures performances"
+            ],
+            "responses": [
+                "Ils sont où les potes qui ne te croient pas quand tu dis que tu as dépassé 100 tirs en une séance ? 🤣 Pour chaque foot à 5, 8, 11, et chaque entraînement, retrouve tes meilleures perfs. 🎯 En plus de célébrer tes records avec toi, nous t'aidons à définir tes objectifs à atteindre sur le terrain grâce à la fonctionnalité Objectifs."
+            ]
+        },
+        {
+            "tag": "Buts et Passes Dé",
+            "patterns": [
+                "buts passes dé",
+                "enregistrement buts",
+                "ajout passes dé",
+                "téléchargement statistiques"
+            ],
+            "responses": [
+                "Ajoute tes buts et tes passes dé. Télécharge tes stats, ajoute un titre à ta séance et partage tes succès ! 🌟"
+            ]
+        },
+        {
+            "tag": "Analyse des Performances",
+            "patterns": [
+                "analyse performances",
+                "analyse détaillée performances",
+                "visualisation statistiques clés",
+                "comparaison normes professionnelles"
+            ],
+            "responses": [
+                "Obtiens une analyse détaillée de tes performances individuelles. Visualise les statistiques clés comme les tirs, les passes, les dribbles, etc. Compare tes performances avec les normes professionnelles et tes propres records pour identifier tes points forts et les domaines à améliorer."
+            ]
+        },
+        {
+            "tag": "Séances d'Entraînement Personnalisées",
+            "patterns": [
+                "séances dentraînement personnalisées",
+                "accès séances personnalisées",
+                "suggestions dexercices adaptés",
+                "suivi progression"
+            ],
+            "responses": [
+                "Accède à des séances d'entraînement personnalisées en fonction de tes performances et de tes objectifs. Nous te proposons des exercices adaptés pour améliorer tes compétences spécifiques. Suis ta progression au fil des séances et atteins tes objectifs plus rapidement !"
+            ]
+        },
+        {
+            "tag": "Sangle et Pochette Footbar",
+            "patterns": [
+                "sangle pochette footbar",
+                "pochette cordon footbar",
+                "description sangle footbar"
+            ],
+            "responses": [
+                "prix_régulier est 12,00 EUR,il y a les taxes_incluses,elle est Légère, souple et moins contraignante qu’une brassière, la nouvelle sangle Footbar au design épuré s’adapte parfaitement aux mouvements de ta jambe. Glisse ton capteur à l'intérieur, accroche-la autour de ton mollet et accède à une expérience de jeu au confort inédit, et pour le contenu du pack Tu recevras une sangle ainsi qu'une pochette à cordon Footbar ,caractéristiques_du_produit Scratch , adaptable Aux mollets des petits comme des grands ,entretien ;Lavable en machine"
+            ]
+        },
+        {
+            "tag": "Modes Paiement",
+            "patterns": [
+                "modes paiement",
+                "quels modes paiement acceptés site",
+                "puisje payer carte crédit site",
+                "quelles options paiement proposezvous"
+            ],
+            "responses": [
+                "Nous acceptons les paiements par carte de crédit (Visa, Mastercard, American Express), PayPal et virement bancaire."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Livraison Internationale",
+            "patterns": [
+                "livraison internationale",
+                "proposezvous livraison internationale quels frais associés",
+                "livrezvous létranger",
+                "quels frais livraison livraison internationale"
+            ],
+            "responses": [
+                "Nous proposons la livraison internationale dans de nombreux pays. Les frais de livraison varient en fonction de la destination et du poids du colis. Vous pouvez consulter les frais de livraison lors du processus de commande."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Politique Retour Echange",
+            "patterns": [
+                "politique retour echange",
+                "quelle politique retour déchange produits achetés ligne",
+                "puisje retourner produit si satisfait",
+                "comment puisje échanger produit"
+            ],
+            "responses": [
+                "Nous offrons une politique de retour de 30 jours pour les produits achetés en ligne. Si vous n'êtes pas satisfait de votre achat, vous pouvez nous le retourner pour un remboursement ou un échange, sous certaines conditions. Veuillez consulter notre page de politique de retour pour plus de détails."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Promotions Offres Speciales",
+            "patterns": [
+                "promotions offres speciales",
+                "atil promotions offres spéciales actuellement disponibles",
+                "proposezvous réductions produits",
+                "comment puisje bénéficier dune offre spéciale"
+            ],
+            "responses": [
+                "Nous proposons régulièrement des promotions et des offres spéciales sur une sélection de produits. Pour être informé de nos dernières offres, vous pouvez vous consulter notre page Promotions sur le site."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Avis Clients Produits",
+            "patterns": [
+                "avis clients produits",
+                "puisje consulter avis clients produits avant faire achat",
+                "où puisje trouver avis clients produits",
+                "clients laissentils avis produits"
+            ],
+            "responses": [
+                "Oui, vous pouvez consulter les avis des clients sur chaque produit répertorié sur notre site. Les avis sont visibles sur la page de chaque produit et sont fournis par des clients ayant déjà acheté et utilisé le produit."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Delais Livraison",
+            "patterns": [
+                "delais livraison",
+                "quels délais livraison estimés commande",
+                "combien temps fautil commande arrive",
+                "quand vaisje recevoir commande"
+            ],
+            "responses": [
+                "Les délais de livraison dépendent de votre emplacement et de la méthode d'expédition choisie. En général, les commandes sont expédiées dans un délai de 1 à 3 jours ouvrables et la livraison prend ensuite entre 3 et 7 jours ouvrables en fonction de votre adresse."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Conseils Guides Achat",
+            "patterns": [
+                "conseils guides achat",
+                "proposezvous conseils guides dachat maider choisir bon équipement",
+                "puisje obtenir recommandations produits",
+                "avezvous ressources maider faire choix éclairé"
+            ],
+            "responses": [
+                "Oui, nous proposons des guides d'achat et des conseils pour vous aider à choisir le bon équipement. Vous pouvez consulter notre section 'Contact' sur le site pour obtenir des informations utiles sur les produits et les meilleures pratiques."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Contactez le Service Client",
+            "patterns": [
+                "service client",
+                "comment puisje contacter service client si jai questions problèmes commande",
+                "quel meilleur moyen contacter cas besoin",
+                "avezvous support client disponible"
+            ],
+            "responses": [
+                "Vous pouvez nous contacter par e-mail à l'adresse support@exemple.com ou par téléphone au +123456789. Notre équipe du service client est disponible pour répondre à toutes vos questions et résoudre tout problème que vous pourriez rencontrer avec votre commande."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Produits Disponibles",
+            "patterns": [
+                "produits disponibles",
+                "quels types produits proposezvous",
+                "quels produits disponibles site",
+                "pouvezvous dire quels produits plus populaires"
+            ],
+            "responses": [
+                "Nous proposons une large gamme de produits, notamment des vêtements, des accessoires, des articles de sport et bien plus encore. Vous pouvez parcourir notre catalogue en ligne pour découvrir tous nos produits disponibles."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Modes Paiement",
+            "patterns": [
+                "modes paiement",
+                "quels modes paiement acceptés site",
+                "puisje payer carte crédit site",
+                "quelles options paiement proposezvous"
+            ],
+            "responses": [
+                "Nous acceptons les paiements par carte de crédit (Visa, Mastercard, American Express), PayPal et virement bancaire."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Livraison Internationale",
+            "patterns": [
+                "livraison internationale",
+                "proposezvous livraison internationale quels frais associés",
+                "livrezvous létranger",
+                "quels frais livraison livraison internationale"
+            ],
+            "responses": [
+                "Nous proposons la livraison internationale dans de nombreux pays. Les frais de livraison varient en fonction de la destination et du poids du colis. Vous pouvez consulter les frais de livraison lors du processus de commande."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Livraison Maroc",
+            "patterns": [
+                "livraison maroc",
+                "proposezvous livraison maroc quels frais associés",
+                "livrezvous maroc",
+                "quels frais livraison livraison maroc"
+            ],
+            "responses": [
+                "Nous proposons la livraison au Maroc. Les frais de livraison varient en fonction de la destination précise et du poids du colis. Vous pouvez consulter  les frais de livraison lors du processus de commande."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Politique Retour Echange",
+            "patterns": [
+                "politique retour echange",
+                "quelle politique retour déchange produits achetés ligne",
+                "puisje retourner produit si satisfait",
+                "comment puisje échanger produit"
+            ],
+            "responses": [
+                "Nous offrons une politique de retour de 30 jours pour les produits achetés en ligne. Si vous n'êtes pas satisfait de votre achat, vous pouvez nous le retourner pour un remboursement ou un échange, sous certaines conditions. Veuillez consulter notre page de politique de retour pour plus de détails."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Promotions Offres Speciales",
+            "patterns": [
+                "promotions offres speciales",
+                "atil promotions offres spéciales actuellement disponibles",
+                "proposezvous réductions produits",
+                "comment puisje bénéficier dune offre spéciale"
+            ],
+            "responses": [
+                "Nous proposons régulièrement des promotions et des offres spéciales sur une sélection de produits. Pour être informé de nos dernières offres, vous pouvez vous abonner à notre newsletter ou consulter notre page Promotions sur le site."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Avis Clients Produits",
+            "patterns": [
+                "avis clients produits",
+                "puisje consulter avis clients produits avant faire achat",
+                "où puisje trouver avis clients produits",
+                "clients laissentils avis produits"
+            ],
+            "responses": [
+                "Oui, vous pouvez consulter les avis des clients sur chaque produit répertorié sur notre site. Les avis sont visibles sur la page de chaque produit et sont fournis par des clients ayant déjà acheté et utilisé le produit."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Delais Livraison",
+            "patterns": [
+                "delais livraison",
+                "quels délais livraison estimés commande",
+                "combien temps fautil commande arrive",
+                "quand vaisje recevoir commande"
+            ],
+            "responses": [
+                "Les délais de livraison dépendent de votre emplacement et de la méthode d'expédition choisie. En général, les commandes sont expédiées dans un délai de 1 à 3 jours ouvrables et la livraison prend ensuite entre 3 et 7 jours ouvrables en fonction de votre adresse."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Conseils Guides Achat",
+            "patterns": [
+                "conseils guides achat",
+                "proposezvous conseils guides dachat maider choisir bon équipement",
+                "puisje obtenir recommandations produits",
+                "avezvous ressources maider faire choix éclairé"
+            ],
+            "responses": [
+                "Oui, nous proposons des guides d'achat et des conseils pour vous aider à choisir le bon équipement. Vous pouvez consulter notre section 'Conseils' ou 'Guides d'achat' sur le site pour obtenir des informations utiles sur les produits et les meilleures pratiques."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Service Client",
+            "patterns": [
+                "service client",
+                "comment puisje contacter service client si jai questions problèmes commande",
+                "quel meilleur moyen contacter cas besoin",
+                "avezvous support client disponible"
+            ],
+            "responses": [
+                "Vous pouvez nous contacter par e-mail à l'adresse support@exemple.com ou par téléphone au +123456789. Notre équipe du service client est disponible pour répondre à toutes vos questions et résoudre tout problème que vous pourriez rencontrer avec votre commande."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Programmes Fidelite",
+            "patterns": [
+                "programmes fidelite",
+                "offrezvous programmes fidélité récompenses clients réguliers",
+                "proposezvous avantages clients fidèles",
+                "atil programmes fidélité disponibles"
+            ],
+            "responses": [
+                "Oui, nous proposons un programme de fidélité pour récompenser nos clients réguliers. Vous pouvez vous inscrire gratuitement et gagner des points à chaque achat, que vous pourrez ensuite échanger contre des réductions ou d'autres avantages exclusifs."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Modification Commande",
+            "patterns": [
+                "modification commande",
+                "puisje modifier commande après lavoir passée",
+                "comment puisje apporter modifications commande",
+                "estil possible changer commande fois passée"
+            ],
+            "responses": [
+                "Vous pouvez modifier votre commande tant qu'elle n'a pas été expédiée. Pour apporter des modifications à votre commande, veuillez nous contacter immédiatement par e-mail ou par téléphone avec les détails de votre commande et les modifications que vous souhaitez apporter."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Suivi Commande",
+            "patterns": [
+                "suivi commande",
+                "comment puisje suivre commande fois quelle expédiée",
+                "puisje suivre lexpédition commande",
+                "où puisje trouver informations suivi commande"
+            ],
+            "responses": [
+                "Une fois votre commande expédiée, vous recevrez un e-mail de confirmation d'expédition contenant un lien de suivi. Vous pouvez cliquer sur ce lien pour suivre l'état de livraison de votre commande en temps réel."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Garanties Produits",
+            "patterns": [
+                "garanties produits",
+                "quelles garanties offertes produits",
+                "offrezvous garantie articles",
+                "sous quelles conditions couverts produits vendez"
+            ],
+            "responses": [
+                "Nous offrons une garantie standard sur tous nos produits contre les défauts de fabrication. La durée de la garantie peut varier en fonction du type de produit. Pour plus de détails sur les garanties spécifiques, veuillez consulter la page de chaque produit ou contacter notre service clientèle."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Conseils Taille Ajustement",
+            "patterns": [
+                "conseils taille ajustement",
+                "atil recommandations taille lajustement vêtements sport disponibles",
+                "comment choisir bonne taille vêtements sport",
+                "avezvous conseils lajustement vêtements sport"
+            ],
+            "responses": [
+                "Nous fournissons des guides de tailles détaillés pour chaque produit de vêtement de sport que nous proposons. Ces guides vous aident à choisir la bonne taille en fonction de vos mensurations. Si vous avez des questions spécifiques sur l'ajustement, n'hésitez pas à contacter notre équipe de service clientèle."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Qualite Produits",
+            "patterns": [
+                "qualite produits",
+                "comment qualité produits",
+                "produits sontils bonne qualité",
+                "puisje compter qualité produits"
+            ],
+            "responses": [
+                "Nous sommes fiers de proposer les meilleurs produits de qualité à nos clients. Tous nos produits sont soigneusement sélectionnés pour offrir une performance optimale, une durabilité exceptionnelle et une satisfaction totale de nos clients."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Innovation Produits",
+            "patterns": [
+                "innovation produits",
+                "quelle linnovation principale produits",
+                "produits intègrentils technologies innovantes",
+                "comment produits démarquentils marché"
+            ],
+            "responses": [
+                "Nos produits intègrent les dernières technologies et innovations pour offrir des performances supérieures et une expérience utilisateur exceptionnelle. Chaque produit est conçu avec un souci du détail et une recherche constante de l'excellence."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Normes Qualite",
+            "patterns": [
+                "normes qualite",
+                "quelles normes qualité respectent produits",
+                "produits sontils conformes normes qualité spécifiques",
+                "puisje être assuré qualité produits"
+            ],
+            "responses": [
+                "Tous nos produits sont fabriqués en respectant les normes de qualité les plus strictes de l'industrie. Nous travaillons avec des fournisseurs réputés et effectuons des contrôles de qualité rigoureux pour garantir que nos produits répondent aux attentes les plus élevées de nos clients."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Satisfaction Client",
+            "patterns": [
+                "satisfaction client",
+                "comment assurezvous satisfaction clients produits",
+                "quelle politique cas dinsatisfaction clients",
+                "comment puisje être sûr satisfait achats"
+            ],
+            "responses": [
+                "La satisfaction de nos clients est notre priorité absolue. Nous offrons une garantie de satisfaction à 100% sur tous nos produits. Si pour une raison quelconque vous n'êtes pas entièrement satisfait de votre achat, nous nous engageons à résoudre le problème et à vous offrir une solution adaptée à vos besoins."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Details Produit",
+            "patterns": [
+                "details produit",
+                "pouvezvous donner plus détails produit x",
+                "quelles caractéristiques produit x",
+                "pourriezvous men dire plus produit x"
+            ],
+            "responses": [
+                "Bien sûr ! tu peux consulter le catalogue ou bien contacter notre service via contact."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Compatibilite Produit",
+            "patterns": [
+                "compatibilite produit",
+                "produit z estil compatible mentionner autre marque autre produit",
+                "puisje utiliser produit z mentionner autre appareil autre équipement",
+                "quelles compatibilités produit z"
+            ],
+            "responses": [
+                "Oui, le produit Z est compatible avec [mentionner les marques ou produits compatibles]. Vous pouvez l'utiliser en toute confiance avec [mentionner les autres appareils ou équipements], ce qui vous offre une expérience d'utilisation sans problème et une grande flexibilité dans vos choix."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "AMO FRMF",
+            "patterns": [
+                "questce lamo frmf",
+                "amo frmf",
+                "questce inclus lamo frmf"
+            ],
+            "responses": [
+                "L'AMO FRMF est un contrat d'assurance maladie type AMO mis en place par la FRMF au profit des joueurs et membres de staff des clubs évoluant en Botola Pro D1 et D2 masculine."
+            ]
+        },
+        {
+            "tag": "Quota",
+            "patterns": [
+                "quel quota club",
+                "combien membres club peutil avoir",
+                "quel nombre maximum personnes club"
+            ],
+            "responses": [
+                "Le quota est de 35 adhérents par club, dont 30 joueurs et 5 membres de staffs."
+            ]
+        },
+        {
+            "tag": "Éligibilité",
+            "patterns": [
+                "suisje éligible bénéficier",
+                "aije droit avantages",
+                "estce admissible prestations"
+            ],
+            "responses": [
+                "Tant que vous évoluez en ligue pro avec une licence valable, vous êtes éligible."
+            ]
+        },
+        {
+            "tag": "Couverture",
+            "patterns": [
+                "estce famille peut bénéficier couverture",
+                "couverture sétendelle famille",
+                "estce famille peut aussi être assurée"
+            ],
+            "responses": [
+                "Oui, votre conjoint et vos enfants peuvent bénéficier de la couverture."
+            ]
+        },
+        {
+            "tag": "Taux remboursement ",
+            "patterns": [
+                "quels taux remboursement",
+                "quel pourcentage frais sontils remboursés",
+                "quel taux remboursés coûts médicaux"
+            ],
+            "responses": [
+                "Les taux de remboursement sont identiques à l'AMO CNSS."
+            ]
+        },
+        {
+            "tag": "TNR",
+            "patterns": [
+                "questce tnr",
+                "quoi compose tnr",
+                "quelle signification tarif national référence"
+            ],
+            "responses": [
+                "Le Tarif National de Référence (TNR) est la base de remboursement utilisée, établie par la CNSS."
+            ]
+        },
+        {
+            "tag": "Accouchement",
+            "patterns": [
+                "laccouchement estil pris charge",
+                "estce lamo frmf paie frais daccouchement",
+                "coûts liés laccouchement sontils inclus couverture"
+            ],
+            "responses": [
+                "Oui, la demande se fait par transmission du pli confidentiel établi par le médecin traitant et du devis de la clinique."
+            ]
+        },
+        {
+            "tag": "Accord",
+            "patterns": [
+                "cest quoi accord préalable",
+                "quelle définition dun accord préalable",
+                "pouvezvous expliquer concept daccord préalable"
+            ],
+            "responses": [
+                "Un accord préalable est une autorisation obtenue auprès de votre compagnie d'assurance avant de recevoir certains traitements médicaux ou dentaires pour s'assurer que les frais seront couverts par votre régime d'assurance."
+            ]
+        },
+        {
+            "tag": "Délais",
+            "patterns": [
+                "délais remboursement",
+                "quel délai traitement remboursements",
+                "quelle vitesse remboursements sontils effectués"
+            ],
+            "responses": [
+                "Le remboursement est effectué dans un délai de 2 semaines à partir de la date de dépôt de la demande de remboursement."
+            ]
+        },
+        {
+            "tag": "Validité",
+            "patterns": [
+                "quelle période validité dune demande remboursement",
+                "combien temps demande remboursement restetelle valable",
+                "atil date limite soumettre demande remboursement"
+            ],
+            "responses": [
+                "La période de validité d'une demande de remboursement est de 60 jours maximum pour déposer la demande."
+            ]
+        },
+        {
+            "tag": "Envoi",
+            "patterns": [
+                "où puisje envoyer demandes remboursement",
+                "quel lendroit approprié soumettre demandes remboursement",
+                "comment puisje faire parvenir demandes remboursement"
+            ],
+            "responses": [
+                "Les demandes de remboursement doivent être envoyées par courrier à l'adresse : CONSEIL KHATIM - SKILLS & SMART, TECHNOPARK, BD DAMAM, BUREAU 137, CASABLANCA."
+            ]
+        },
+        {
+            "tag": "Dépôt",
+            "patterns": [
+                "estce peux déposer dossiers nimporte quelle agence",
+                "puisje soumettre documents nimporte quelle succursale",
+                "suisje autorisé déposer documents différents bureaux"
+            ],
+            "responses": [
+                "Non, vous ne pouvez pas déposer vos dossiers dans n'importe quelle agence."
+            ]
+        },
+        {
+            "tag": "Orthodontie",
+            "patterns": [
+                "lorthodontie estelle remboursable adultes",
+                "traitements orthodontiques sontils pris charge personnes plus âgées",
+                "adultes peuventils bénéficier dun remboursement lorthodontie"
+            ],
+            "responses": [
+                "Non, l'orthodontie n'est pas remboursable pour les adultes."
+            ]
+        },
+        {
+            "tag": "Âge",
+            "patterns": [
+                "lâge maximum lorthodontie",
+                "quel lâge plus élevé auquel peux commencer traitement orthodontique",
+                "jusquà quel âge puisje bénéficier dun traitement orthodontique"
+            ],
+            "responses": [
+                "Les traitements doivent être débutés avant le 12ème anniversaire."
+            ]
+        },
+        {
+            "tag": "Couverture Âge",
+            "patterns": [
+                "lâge maximum bénéficier couverture",
+                "jusquà quel âge puisje être assuré lamo frmf",
+                "quel lâge maximum être couvert lassurance"
+            ],
+            "responses": [
+                "L'âge maximum pour bénéficier de la couverture est de 60 ans."
+            ]
+        },
+        {
+            "tag": "Différence RC SPORT AMO FRMF",
+            "patterns": [
+                "différence entre rc sport amo frmf",
+                "quoi consistent différences entre rc sport lamo frmf",
+                "comment rc sport diffèretelle lamo frmf"
+            ],
+            "responses": [
+                "La RC SPORT concerne les accidents sportifs pendant la pratique professionnelle ou amateur du football, tandis que l'AMO est une couverture pour la vie privée du footballeur et de sa famille."
+            ]
+        },
+        {
+            "tag": "Feuilles",
+            "patterns": [
+                "où puisje récupérer feuilles maladie",
+                "où puisje obtenir formulaires demande remboursement",
+                "comment puisje accéder formulaires maladie nécessaires lassurance"
+            ],
+            "responses": [
+                "Vous pouvez les récupérer dans les agences ATLANTASANAD ou par voie électronique en prenant contact avec le service de relation client."
+            ]
+        },
+        {
+            "tag": "Couverture Staff Médical",
+            "patterns": [
+                "couverture staff médical",
+                "estce lamo frmf couvre également membres staff médical clubs football"
+            ],
+            "responses": [
+                "Oui, l'AMO FRMF couvre également les membres du staff médical des clubs de football."
+            ]
+        },
+        {
+            "tag": "Éligibilité Joueur Amateur",
+            "patterns": [
+                "éligibilité joueur amateur",
+                "quel processus vérifier si éligible lamo frmf tant joueur football amateur"
+            ],
+            "responses": [
+                "Le processus d'éligibilité pour l'AMO FRMF en tant que joueur de football amateur peut varier. Il est recommandé de contacter directement la FRMF pour obtenir des informations précises."
+            ]
+        },
+        {
+            "tag": "Limitations Traitement",
+            "patterns": [
+                "limitations traitement",
+                "atil limitations types traitement médical couverts lamo frmf"
+            ],
+            "responses": [
+                "Les types de traitement médical couverts par l'AMO FRMF peuvent varier. Pour des détails spécifiques, il est recommandé de consulter les documents de votre contrat d'assurance ou de contacter le service client de l'AMO FRMF."
+            ]
+        },
+        {
+            "tag": "Différence Taux Rem",
+            "patterns": [
+                "différence taux rem",
+                "quelle différence entre taux remboursement lamo frmf ceux dautres régimes dassurance maladie"
+            ],
+            "responses": [
+                "La différence entre les taux de remboursement de l'AMO FRMF et ceux d'autres régimes d'assurance maladie peut être liée aux modalités spécifiques de chaque régime. Pour des informations précises, il est recommandé de consulter les documents de votre contrat d'assurance ou de contacter le service client de l'AMO FRMF."
+            ]
+        },
+        {
+            "tag": "TNR Réglion",
+            "patterns": [
+                "tnr réglion",
+                "tarif national référence tnr estil ajusté fonction région géographique remboursements lamo frmf"
+            ],
+            "responses": [
+                "Le Tarif National de Référence (TNR) peut être ajusté en fonction de la région géographique pour les remboursements de l'AMO FRMF. Pour des informations précises, il est recommandé de consulter les documents de votre contrat d'assurance ou de contacter le service client de l'AMO FRMF."
+            ]
+        },
+        {
+            "tag": "Accord Préalable",
+            "patterns": [
+                "accord préalable",
+                "quelles étapes suivre obtenir autorisation préalable traitement médical spécifique lamo frmf"
+            ],
+            "responses": [
+                "Pour obtenir une autorisation préalable pour un traitement médical spécifique avec l'AMO FRMF, il est recommandé de contacter votre compagnie d'assurance pour obtenir les instructions spécifiques."
+            ]
+        },
+        {
+            "tag": "Délais Remboursement",
+            "patterns": [
+                "délais remboursement",
+                "atil circonstances spécifiques où délais remboursement lamo frmf peuvent être prolongés"
+            ],
+            "responses": [
+                "Les délais de remboursement de l'AMO FRMF peuvent être prolongés dans certaines circonstances exceptionnelles, telles que des vérifications supplémentaires ou des cas complexes. Pour des informations précises, il est recommandé de contacter le service client de l'AMO FRMF."
+            ]
+        },
+        {
+            "tag": "Renouvellement Demande",
+            "patterns": [
+                "renouvellement demande",
+                "comment puisje renouveler demande remboursement si celleci expire avant puisse déposer"
+            ],
+            "responses": [
+                "Si votre demande de remboursement expire avant que vous puissiez la déposer, vous devrez peut-être soumettre une nouvelle demande. Assurez-vous de respecter les délais de soumission spécifiés par votre régime d'assurance."
+            ]
+        },
+        {
+            "tag": "Options Envoi Demande",
+            "patterns": [
+                "options envoi demande",
+                "quelles autres options disponibles envoyer demandes remboursement si peux faire courrier"
+            ],
+            "responses": [
+                "Si vous ne pouvez pas envoyer vos demandes de remboursement par courrier, vous pouvez envisager d'autres méthodes telles que l'envoi électronique ou la remise en mains propres si cela est autorisé par votre régime d'assurance."
+            ]
+        },
+        {
+            "tag": "Dépôt Agence",
+            "patterns": [
+                "dépôt agence",
+                "quelles options disponibles si peux déposer dossiers ladresse indiquée lamo frmf"
+            ],
+            "responses": [
+                "Si vous ne pouvez pas déposer vos dossiers à l'adresse indiquée pour l'AMO FRMF, vous devriez contacter votre compagnie d'assurance pour obtenir des directives sur les autres moyens de soumettre vos documents."
+            ]
+        },
+        {
+            "tag": "Remboursement Ortho Adulte",
+            "patterns": [
+                "remboursement ortho adulte",
+                "estce quil existe exceptions remboursement lorthodontie adultes cas particuliers"
+            ],
+            "responses": [
+                "Les exceptions pour le remboursement de l'orthodontie pour les adultes peuvent varier selon les régimes d'assurance. Pour des informations précises, il est recommandé de consulter les documents de votre contrat d'assurance ou de contacter le service client de votre compagnie d'assurance."
+            ]
+        },
+        {
+            "tag": "Financement Ortho Adulte",
+            "patterns": [
+                "financement ortho adulte",
+                "atil alternatives financer traitements orthodontiques adultes dehors lamo frmf"
+            ],
+            "responses": [
+                "Oui, il existe des alternatives pour financer les traitements orthodontiques pour les adultes en dehors de l'AMO FRMF, telles que les plans de paiement échelonné ou les prêts de santé. Il est recommandé de consulter un conseiller financier ou un professionnel de la santé pour explorer ces options."
+            ]
+        },
+        {
+            "tag": "Programmes Personnes Âgées",
+            "patterns": [
+                "programmes personnes âgées",
+                "existetil programmes spéciaux personnes âgées nécessitent soins dentaires couverts lamo frmf"
+            ],
+            "responses": [
+                "Oui, certains régimes d'assurance offrent des programmes spéciaux pour les personnes âgées qui nécessitent des soins dentaires. Pour des informations précises sur les programmes disponibles dans le cadre de l'AMO FRMF, il est recommandé de contacter votre compagnie d'assurance."
+            ]
+        },
+        {
+            "tag": "Éligibilité Age",
+            "patterns": [
+                "éligibilité age",
+                "comment puisje savoir si toujours éligible couverture lamo frmf mesure vieillis"
+            ],
+            "responses": [
+                "Pour vérifier votre éligibilité à la couverture de l'AMO FRMF à mesure que vous vieillissez, il est recommandé de contacter votre compagnie d'assurance pour obtenir des informations spécifiques sur les critères d'âge et les exigences de renouvellement."
+            ]
+        },
+        {
+            "tag": "Autres Assurances Famille",
+            "patterns": [
+                "autres assurances famille",
+                "quelles autres assurances disponibles compléter couverture offerte lamo frmf membres famille"
+            ],
+            "responses": [
+                "En plus de l'AMO FRMF, il existe d'autres assurances complémentaires disponibles pour les membres de votre famille, telles que l'assurance santé individuelle ou l'assurance accident. Il est recommandé de consulter un conseiller en assurance pour explorer ces options et choisir celle qui convient le mieux à vos besoins."
+            ]
+        },
+        {
+            "tag": "Différence RC SPORT",
+            "patterns": [
+                "quoi lassurance rc sport diffèretelle lassurance amo frmf termes couverture joueurs football"
+            ],
+            "responses": [
+                "La principale différence entre l'assurance RC SPORT et l'assurance AMO FRMF réside dans la nature de la couverture. La RC SPORT couvre les accidents sportifs pendant la pratique professionnelle ou amateur du football, tandis que l'AMO FRMF offre une couverture pour la vie privée du footballeur et de sa famille."
+            ]
+        },
+        {
+            "tag": "Récupération Feuilles",
+            "patterns": [
+                "comment puisje récupérer feuilles maladie si peux obtenir endroits indiqués lamo frmf"
+            ],
+            "responses": [
+                "Si vous ne pouvez pas récupérer les feuilles de maladie aux endroits indiqués par l'AMO FRMF, vous devriez contacter le service de relation client pour explorer d'autres options de récupération, telles que l'envoi électronique ou la demande de livraison à domicile."
+            ]
+        },
+        {
+            "tag": "Criteres AMO",
+            "patterns": [
+                "criteres deligibilite a lamo",
+                "eligible a lamo",
+                "conditions beneficier lamo"
+            ],
+            "responses": [
+                "Les criteres d'eligibilite a l'AMO varient selon la legislation en vigueur dans chaque pays. En general, les salaries du secteur formel et leurs ayants droit, ainsi que les travailleurs independants affilies a la securite sociale, sont eligible a l'AMO."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Exclusions RC",
+            "patterns": [
+                "exclusions rc",
+                "exclusions couverture rc",
+                "nest couvert lassurance responsabilite civile",
+                "dommages non pris charge lassurance responsabilite civile"
+            ],
+            "responses": [
+                "Oui, les exclusions de couverture dans l'Assurance Responsabilite Civile Sport peuvent inclure les dommages intentionnels, les dommages causes lors de la pratique d'activites non couvertes par la police d'assurance, et les dommages resultant de la participation a des activites illegales."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Coordination AMO",
+            "patterns": [
+                "coordination amo",
+                "coordination entre lamo assurances complementaires",
+                "relation entre amo assurances complementaires",
+                "comment fonctionne coordination amoassurances complementaires"
+            ],
+            "responses": [
+                "La coordination des prestations entre l'AMO et les assurances complementaires se fait generalement de maniere a ce que l'AMO couvre en premier lieu les frais medicaux de base, et que les assurances complementaires interviennent pour couvrir les frais restants ou offrir une couverture supplementaire selon les termes du contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Demarches Sinistre RC",
+            "patterns": [
+                "demarches sinistre rc",
+                "demarches cas sinistre rc",
+                "faire cas sinistre couvert lassurance responsabilite civile sport",
+                "procedure declaration sinistre rc"
+            ],
+            "responses": [
+                "En cas de sinistre couvert par l'assurance responsabilite civile sport, les demarches a suivre incluent generalement la declaration du sinistre a l'assureur, la fourniture de toute documentation requise, et la cooperation avec l'assureur tout au long du processus de reclamation."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Frais Medicaux AMO",
+            "patterns": [
+                "frais medicaux amo",
+                "frais medicaux couverts lamo",
+                "quels frais medicaux pris charge lamo",
+                "services medicaux inclus lamo"
+            ],
+            "responses": [
+                "L'AMO couvre generalement une gamme de frais medicaux, y compris les consultations medicales, les medicaments prescrits, les examens de laboratoire, les interventions chirurgicales, l'hospitalisation et d'autres services medicaux essentiels."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Procedures Remboursement Non Couverts AMO",
+            "patterns": [
+                "procedures remboursement non couverts amo",
+                "procedures remboursement frais non couverts lamo",
+                "comment obtenir remboursement frais non pris charge lamo",
+                "remboursement depenses medicales non couvertes lamo"
+            ],
+            "responses": [
+                "Les procedures de remboursement pour les frais medicaux non couverts par l'AMO varient selon les termes du contrat d'assurance complementaire. En general, il faut soumettre une demande de remboursement accompagnee des justificatifs de paiement et des factures medicales."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Documents Necessaires FRMF",
+            "patterns": [
+                "documents necessaires frmf",
+                "documents necessaires beneficier prise charge frmf",
+                "quels documents requis prise charge frmf",
+                "pieces a fournir frmf"
+            ],
+            "responses": [
+                "Les documents necessaires pour beneficier de la prise en charge par la FRMF peuvent inclure une declaration du sinistre, un rapport medical detaille, des preuves de l'incident survenu lors de la pratique du sport, et toute autre documentation exige par la FRMF."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Niveaux Couverture RC",
+            "patterns": [
+                "niveaux couverture rc",
+                "niveaux couverture lassurance responsabilite civile sport",
+                "quels differents niveaux couverture disponibles rc sport",
+                "options couverture responsabilite civile sport"
+            ],
+            "responses": [
+                "Les differents niveaux de couverture disponibles pour l'Assurance Responsabilite Civile Sport peuvent inclure une couverture de base pour les dommages corporels et materiels, ainsi que des options de couverture supplementaire pour des risques specifiques lies a la pratique du sport."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Differences Prise En Charge",
+            "patterns": [
+                "differences prise charge",
+                "differences entre prise charge individuelle familiale",
+                "prise charge individuelle vs familiale",
+                "quelle difference entre prise charge individuelle familiale"
+            ],
+            "responses": [
+                "La prise en charge individuelle couvre une seule personne assuree, tandis que la prise en charge familiale couvre un ensemble de membres de la famille, tels que le conjoint et les enfants a charge, sous un seul contrat d'assurance."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Processus Reclamation Prestations Reservees",
+            "patterns": [
+                "processus reclamation prestations reservees",
+                "comment reclamer prestations reservees",
+                "procedure reclamation prestations specifiques"
+            ],
+            "responses": [
+                "Le processus de reclamation pour les prestations reservees implique generalement de soumettre une demande de remboursement accompagnee des justificatifs appropries, tels que les factures et les recus, et de suivre les instructions fournies par l'assureur pour le traitement de la reclamation."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Specificites Contrats Age",
+            "patterns": [
+                "specificites contrats dassurance selon lage",
+                "comment contrats varientils fonction lage",
+                "options differentes tranches dage"
+            ],
+            "responses": [
+                "Les specificites des contrats d'assurance pour les differentes categories d'age peuvent inclure des prestations adaptees aux besoins de sante specifiques a chaque tranche d'age, ainsi que des primes d'assurance variables en fonction du risque associe a chaque groupe d'age."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Options Personnalisation Contrats",
+            "patterns": [
+                "options personnalisation contrats dassurance",
+                "comment personnaliser contrat dassurance",
+                "choix disponibles personnaliser contrat"
+            ],
+            "responses": [
+                "Oui, il peut y avoir des options de personnalisation disponibles pour les contrats d'assurance, telles que la selection de certaines prestations specifiques, l'ajustement des niveaux de couverture, et l'ajout d'options complementaires selon les besoins individuels du souscripteur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Modalites Renouvellement Contrats",
+            "patterns": [
+                "modalites renouvellement contrats dassurance",
+                "comment renouveler contrat dassurance",
+                "procedure renouvellement contrats"
+            ],
+            "responses": [
+                "Les modalites de renouvellement des contrats d'assurance varient selon les termes du contrat et les pratiques de l'assureur. En general, les contrats d'assurance peuvent etre renouveles automatiquement a leur date d'echeance, sous reserve du paiement des primes et de certaines conditions specifiques."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Avantages Assurance Complementaire",
+            "patterns": [
+                "avantages dune assurance complementaire",
+                "pourquoi choisir assurance complementaire",
+                "propose assurance complementaire"
+            ],
+            "responses": [
+                "Les avantages d'une assurance complementaire par rapport a l'AMO seule incluent une couverture etendue pour des frais medicaux non pris en charge par l'AMO, tels que les soins dentaires, l'optique, les medecines douces, etc., ainsi que des services supplementaires comme l'assistance en cas de voyage, les consultations specialisees, etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Audit Dossiers Prise En Charge",
+            "patterns": [
+                "audit dossiers prise charge",
+                "comment deroule laudit dossiers lassureur",
+                "verification dossiers remboursement"
+            ],
+            "responses": [
+                "L'audit des dossiers de prise en charge par la compagnie d'assurance implique generalement l'examen des documents soumis, la verification de l'admissibilite aux prestations, la conformite aux conditions du contrat, et la validation des frais medicaux engages."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Delais Traitement Demandes Prise En Charge",
+            "patterns": [
+                "delais traitement demandes prise charge",
+                "delais traitement demandes prise charge",
+                "combien temps fautil traiter demande remboursement",
+                "temps necessaire traitement reclamations"
+            ],
+            "responses": [
+                "Les delais de traitement habituels pour les demandes de prise en charge dependent de la complexite de la demande, du volume de reclamations en cours, et des pratiques de traitement de l'assureur. En general, les demandes sont traitees dans un delai raisonnable pour assurer une reponse rapide aux assures."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Garanties Supplementaires Assurances Complementaires",
+            "patterns": [
+                "garanties supplementaires assurances complementaires",
+                "garanties supplementaires proposees assurances complementaires",
+                "quelles options comervices supplementplementaires offertes assurances",
+                "saires disponibles assurances complementaires"
+            ],
+            "responses": [
+                "Les garanties supplementaires proposees par les assurances complementaires peuvent inclure une couverture etendue pour les soins dentaires, l'optique, les medecines douces, les frais d'hospitalisation, l'assistance en cas de voyage, etc., selon les besoins specifiques du souscripteur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Coordination Prestations Double Couverture",
+            "patterns": [
+                "coordination prestations double couverture",
+                "coordination prestations cas double couverture",
+                "passetil cas double assurance",
+                "double couverture amo assurance complementaire"
+            ],
+            "responses": [
+                "En cas de double couverture par l'AMO et une assurance complementaire, la coordination des prestations se fait generalement de maniere a ce que l'AMO couvre en premier lieu les frais medicaux de base, tandis que l'assurance complementaire intervient pour couvrir les frais restants ou offrir une couverture supplementaire selon les termes du contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Demarches Ajout Beneficiaire",
+            "patterns": [
+                "demarches ajout beneficiaire",
+                "demarches ajouter beneficiaire contrat",
+                "comment ajouter beneficiaire a contrat dassurance",
+                "procedure dajout dun beneficiaire"
+            ],
+            "responses": [
+                "Les demarches pour ajouter un beneficiaire a votre contrat d'assurance peuvent varier selon les termes du contrat et les procedures de l'assureur, mais generalement, vous devrez soumettre une demande de modification de contrat accompagnee des documents justificatifs necessaires."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Documents Preuve Admissibilite Prestations",
+            "patterns": [
+                "documents preuve admissibilite prestations",
+                "documents requis prouver ladmissibilite a certaines prestations",
+                "pieces justificatives beneficier certaines prestations",
+                "preuves deligibilite prestations"
+            ],
+            "responses": [
+                "Les documents necessaires pour prouver l'admissibilite a certaines prestations peuvent inclure des pieces d'identite, des preuves de residence, des certificats medicaux, des releves de compte, des declarations de revenus, etc., selon les criteres specifiques de chaque prestation."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Consequences Non Validation Dossier",
+            "patterns": [
+                "consequences non validation dossier",
+                "consequences nonvalidation dun dossier prise charge",
+                "passetil si dossier nest valide",
+                "effets nonvalidation dune reclamation"
+            ],
+            "responses": [
+                "Les consequences de la non-validation d'un dossier de prise en charge peuvent inclure le rejet de la demande de remboursement, le non-paiement des frais medicaux engages, et la necessite pour l'assure de prendre en charge lui-meme les depenses non couvertes par l'assurance."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "salut",
+                "comment ça va",
+                "atil quelquun",
+                "bonjour",
+                "bonsoir",
+                "hello",
+                "hey",
+                "ça va"
+            ],
+            "responses": [
+                "Bonjour!",
+                "Content de vous voir!",
+                "Salut, comment puis-je vous aider?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "good bye",
+            "patterns": [
+                "plus tard",
+                "revoir",
+                "pars",
+                "bonne journée",
+                "bye",
+                "dois aller",
+                "dois partir"
+            ],
+            "responses": [
+                "Triste de vous voir partir :(",
+                "On se reparle plus tard",
+                "Au revoir!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "quel nom",
+                "comment doisje tappeler",
+                "quel nom",
+                "estu"
+            ],
+            "responses": [
+                "Je suis votre assistante virtuelle."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "remerciement",
+            "patterns": [
+                "merci beaucoup",
+                "reconnaissante",
+                "cest très gentil part",
+                "tapprécie"
+            ],
+            "responses": [
+                "De rien!",
+                "Je suis heureux/se de pouvoir aider!",
+                "Avec plaisir!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "aide",
+            "patterns": [
+                "aide",
+                "jaimerais demander quelque chose",
+                "peuxtu faire",
+                "peuxtu maider",
+                "puisje dire quelque chose"
+            ],
+            "responses": [
+                "Je suis là pour vous aider!",
+                "Je peux vous aider avec tout ce que vous me demandez."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Delais Carence Nouveaux Contrats",
+            "patterns": [
+                "delais carence nouveaux contrats",
+                "delais carence nouveaux contrats",
+                "combien temps dure delai carence nouveaux contrats",
+                "periode dattente nouvelles souscriptions"
+            ],
+            "responses": [
+                "Les delais de carence applicables aux nouveaux contrats d'assurance peuvent varier selon les termes du contrat et les pratiques de l'assureur, mais generalement, ils determinent une periode pendant laquelle certaines prestations ne sont pas couvertes apres la souscription du contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Remboursement AMO",
+            "patterns": [
+                "remboursement amo",
+                "comment fait remboursement frais médicaux couverts lamo",
+                "quelles étapes obtenir remboursement lamo",
+                "comment fonctionne processus remboursement lamo"
+            ],
+            "responses": [
+                "Le remboursement des frais médicaux couverts par l'AMO se fait généralement en soumettant une demande de remboursement accompagnée des justificatifs nécessaires..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Changement Situation AMO",
+            "patterns": [
+                "changement situation amo",
+                "faire cas changement situation personnelle lamo",
+                "comment mettre jour informations personnelles lamo",
+                "quelles démarches suivre cas changement situation lamo"
+            ],
+            "responses": [
+                "En cas de changement de situation personnelle, il est important de mettre à jour vos informations avec l'AMO en contactant votre assureur ou en remplissant un formulaire de modification..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Résiliation Contrat AMO",
+            "patterns": [
+                "résiliation contrat amo",
+                "comment résilier contrat damo",
+                "quelles étapes mettre fin contrat damo",
+                "comment annuler couverture amo"
+            ],
+            "responses": [
+                "La résiliation d'un contrat d'AMO peut être effectuée en contactant votre assureur et en suivant les procédures de résiliation indiquées dans votre contrat..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Exclusions Assurance Complementaire",
+            "patterns": [
+                "exclusions assurance complementaire",
+                "quels événements exclus couverture assurances complémentaires",
+                "quels dommages pris charge assurances complémentaires",
+                "quels risques couverts assurances complémentaires"
+            ],
+            "responses": [
+                "Les exclusions de couverture dans les assurances complémentaires peuvent inclure..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Procedures Recours Decision AMO",
+            "patterns": [
+                "procedures recours decision amo",
+                "comment contester décision lamo",
+                "quelles procédures recours cas désaccord décision lamo",
+                "comment faire appel dune décision prise lamo"
+            ],
+            "responses": [
+                "En cas de désaccord avec une décision de l'AMO, vous pouvez généralement faire appel en suivant les procédures de recours indiquées par votre assureur..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Franchise AMO",
+            "patterns": [
+                "franchise amo",
+                "questce quune franchise amo",
+                "comment fonctionne franchise lamo",
+                "quels effets franchise remboursements lamo"
+            ],
+            "responses": [
+                "La franchise en AMO est un montant fixe ou un pourcentage des frais médicaux que l'assuré doit payer avant que l'AMO ne commence à rembourser..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Depassement Honoraires",
+            "patterns": [
+                "depassement honoraires",
+                "faire cas dépassement dhonoraires lamo",
+                "comment pris charge dépassements dhonoraires lamo",
+                "quelles démarches suivre cas dépassement dhonoraires lamo"
+            ],
+            "responses": [
+                "En cas de dépassement d'honoraires, l'AMO peut prendre en charge une partie ou la totalité du montant remboursable selon les termes du contrat..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Periode Grâce AMO",
+            "patterns": [
+                "periode grâce amo",
+                "questce période grâce amo",
+                "comment fonctionne période grâce lamo",
+                "quelles implications période grâce couverture amo"
+            ],
+            "responses": [
+                "La période de grâce en AMO est une période pendant laquelle la couverture n'est pas encore effective après la souscription au contrat. Pendant cette période, les demandes de remboursement ne sont pas prises en charge..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Exclusions Assurance RC",
+            "patterns": [
+                "exclusions assurance rc",
+                "quels événements exclus couverture lassurance responsabilité civile",
+                "quels incidents pris charge lassurance responsabilité civile",
+                "quels risques couverts lassurance responsabilité civile"
+            ],
+            "responses": [
+                "Les exclusions de couverture dans l'Assurance Responsabilité Civile peuvent inclure..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Conditions Resiliation Contrat",
+            "patterns": [
+                "conditions resiliation contrat",
+                "quelles conditions résiliation dun contrat dassurance",
+                "quand puisje résilier contrat dassurance",
+                "quelles démarches suivre résilier contrat dassurance"
+            ],
+            "responses": [
+                "Les conditions de résiliation d'un contrat d'assurance varient selon les termes du contrat et la législation en vigueur..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Avantages AMO",
+            "patterns": [
+                "avantages amo",
+                "quels avantages lamo rapport assurance individuelle",
+                "pourquoi choisir lamo plutôt quune assurance privée",
+                "quels points forts lamo"
+            ],
+            "responses": [
+                "Les avantages de l'AMO incluent généralement une couverture étendue pour les frais médicaux, des coûts réduits grâce à la mutualisation des risques et la possibilité de couvrir les ayants droit..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Responsabilite Civile Locative",
+            "patterns": [
+                "responsabilite civile locative",
+                "questce lassurance responsabilité civile locative",
+                "pourquoi souscrire assurance responsabilité civile locative",
+                "quels avantages lassurance responsabilité civile locative"
+            ],
+            "responses": [
+                "L'Assurance Responsabilité Civile Locative couvre généralement les dommages causés par le locataire à un bien immobilier loué. Souscrire à cette assurance offre une protection financière en cas de sinistre..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Annulation Contrat Assurance",
+            "patterns": [
+                "annulation contrat assurance",
+                "comment annuler contrat dassurance",
+                "quelles démarches suivre annuler contrat dassurance",
+                "estil possible résilier contrat dassurance"
+            ],
+            "responses": [
+                "Vous pouvez généralement annuler un contrat d'assurance en contactant votre assureur et en suivant les procédures de résiliation indiquées dans votre contrat..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Renouvellement Assurance",
+            "patterns": [
+                "renouvellement assurance",
+                "comment renouveler contrat dassurance",
+                "quelles étapes renouveler assurance",
+                "estil automatique renouveler contrat dassurance"
+            ],
+            "responses": [
+                "Le renouvellement de votre contrat d'assurance peut se faire automatiquement selon les termes du contrat ou nécessiter une action de votre part. Contactez votre assureur pour obtenir des informations spécifiques sur le renouvellement de votre contrat..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Voyage",
+            "patterns": [
+                "assurance voyage",
+                "questce lassurance voyage",
+                "pourquoi souscrire assurance voyage",
+                "quels avantages lassurance voyage"
+            ],
+            "responses": [
+                "L'Assurance Voyage offre généralement une couverture pour les frais médicaux d'urgence à l'étranger, l'annulation de voyage, le rapatriement sanitaire et d'autres services essentiels en cas d'imprévus pendant votre voyage..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Role FRMF",
+            "patterns": [
+                "role frmf",
+                "quel rôle frmf domaine lassurance",
+                "comment frmf estelle impliquée secteur lassurance",
+                "quelle relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "Le rôle de la FRMF dans le domaine de l'assurance peut varier, mais elle peut être impliquée dans la négociation de polices d'assurance pour les joueurs, les clubs et les événements liés au football..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "quel type dassurance joueurs affiliés frmf ontils",
+                "quelle couverture dassurance offerte joueurs frmf",
+                "comment joueurs sontils assurés frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les accidents et les blessures liées à leur pratique sportive, ainsi que d'autres garanties spécifiques à leur statut de joueur professionnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Evenements FRMF",
+            "patterns": [
+                "assurance evenements frmf",
+                "quels types dassurance frmf souscritelle événements",
+                "comment frmf assuretelle compétitions événements",
+                "quelle couverture dassurance événements organisés frmf"
+            ],
+            "responses": [
+                "La FRMF peut souscrire différentes polices d'assurance pour ses événements, couvrant des aspects tels que la responsabilité civile, les dommages matériels et les incidents imprévus lors des matchs et des compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Collaboration Assureurs FRMF",
+            "patterns": [
+                "collaboration assureurs frmf",
+                "comment frmf collaboretelle compagnies dassurance",
+                "quels partenariats entre frmf assureurs",
+                "quelle nature relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "La FRMF peut collaborer avec les compagnies d'assurance pour élaborer des programmes spécifiques de couverture, négocier des tarifs préférentiels pour ses membres et garantir une protection adéquate pour ses activités et ses parties prenantes..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Clubs FRMF",
+            "patterns": [
+                "assurance clubs frmf",
+                "quel type dassurance clubs affiliés frmf ontils",
+                "comment clubs football sontils assurés frmf",
+                "quelle couverture dassurance offerte clubs frmf"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF peuvent bénéficier d'une assurance couvrant divers aspects, tels que la responsabilité civile, les accidents des joueurs et du personnel, les biens immobiliers et les équipements sportifs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Role FRMF",
+            "patterns": [
+                "role frmf",
+                "quel rôle frmf domaine lassurance",
+                "comment frmf estelle impliquée secteur lassurance",
+                "quelle relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "Le rôle de la FRMF dans le domaine de l'assurance peut varier, mais elle peut être impliquée dans la négociation de polices d'assurance pour les joueurs, les clubs et les événements liés au football..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "quel type dassurance joueurs affiliés frmf ontils",
+                "quelle couverture dassurance offerte joueurs frmf",
+                "comment joueurs sontils assurés frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les accidents et les blessures liées à leur pratique sportive, ainsi que d'autres garanties spécifiques à leur statut de joueur professionnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Evenements FRMF",
+            "patterns": [
+                "assurance evenements frmf",
+                "quels types dassurance frmf souscritelle événements",
+                "comment frmf assuretelle compétitions événements",
+                "quelle couverture dassurance événements organisés frmf"
+            ],
+            "responses": [
+                "La FRMF peut souscrire différentes polices d'assurance pour ses événements, couvrant des aspects tels que la responsabilité civile, les dommages matériels et les incidents imprévus lors des matchs et des compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Collaboration Assureurs FRMF",
+            "patterns": [
+                "collaboration assureurs frmf",
+                "comment frmf collaboretelle compagnies dassurance",
+                "quels partenariats entre frmf assureurs",
+                "quelle nature relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "La FRMF peut collaborer avec les compagnies d'assurance pour élaborer des programmes spécifiques de couverture, négocier des tarifs préférentiels pour ses membres et garantir une protection adéquate pour ses activités et ses parties prenantes..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Clubs FRMF",
+            "patterns": [
+                "assurance clubs frmf",
+                "quel type dassurance clubs affiliés frmf ontils",
+                "comment clubs football sontils assurés frmf",
+                "quelle couverture dassurance offerte clubs frmf"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF peuvent bénéficier d'une assurance couvrant divers aspects, tels que la responsabilité civile, les accidents des joueurs et du personnel, les biens immobiliers et les équipements sportifs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Role FRMF",
+            "patterns": [
+                "role frmf",
+                "quel rôle frmf domaine lassurance",
+                "comment frmf estelle impliquée secteur lassurance",
+                "quelle relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "Le rôle de la FRMF dans le domaine de l'assurance peut varier, mais elle peut être impliquée dans la négociation de polices d'assurance pour les joueurs, les clubs et les événements liés au football..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "quel type dassurance joueurs affiliés frmf ontils",
+                "quelle couverture dassurance offerte joueurs frmf",
+                "comment joueurs sontils assurés frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les accidents et les blessures liées à leur pratique sportive, ainsi que d'autres garanties spécifiques à leur statut de joueur professionnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Evenements FRMF",
+            "patterns": [
+                "assurance evenements frmf",
+                "quels types dassurance frmf souscritelle événements",
+                "comment frmf assuretelle compétitions événements",
+                "quelle couverture dassurance événements organisés frmf"
+            ],
+            "responses": [
+                "La FRMF peut souscrire différentes polices d'assurance pour ses événements, couvrant des aspects tels que la responsabilité civile, les dommages matériels et les incidents imprévus lors des matchs et des compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Collaboration Assureurs FRMF",
+            "patterns": [
+                "collaboration assureurs frmf",
+                "comment frmf collaboretelle compagnies dassurance",
+                "quels partenariats entre frmf assureurs",
+                "quelle nature relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "La FRMF peut collaborer avec les compagnies d'assurance pour élaborer des programmes spécifiques de couverture, négocier des tarifs préférentiels pour ses membres et garantir une protection adéquate pour ses activités et ses parties prenantes..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Clubs FRMF",
+            "patterns": [
+                "assurance clubs frmf",
+                "quel type dassurance clubs affiliés frmf ontils",
+                "comment clubs football sontils assurés frmf",
+                "quelle couverture dassurance offerte clubs frmf"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF peuvent bénéficier d'une assurance couvrant divers aspects, tels que la responsabilité civile, les accidents des joueurs et du personnel, les biens immobiliers et les équipements sportifs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Role FRMF",
+            "patterns": [
+                "role frmf",
+                "quel rôle frmf domaine lassurance",
+                "comment frmf estelle impliquée secteur lassurance",
+                "quelle relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "Le rôle de la FRMF dans le domaine de l'assurance peut varier, mais elle peut être impliquée dans la négociation de polices d'assurance pour les joueurs, les clubs et les événements liés au football..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "quel type dassurance joueurs affiliés frmf ontils",
+                "quelle couverture dassurance offerte joueurs frmf",
+                "comment joueurs sontils assurés frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les accidents et les blessures liées à leur pratique sportive, ainsi que d'autres garanties spécifiques à leur statut de joueur professionnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Evenements FRMF",
+            "patterns": [
+                "assurance evenements frmf",
+                "quels types dassurance frmf souscritelle événements",
+                "comment frmf assuretelle compétitions événements",
+                "quelle couverture dassurance événements organisés frmf"
+            ],
+            "responses": [
+                "La FRMF peut souscrire différentes polices d'assurance pour ses événements, couvrant des aspects tels que la responsabilité civile, les dommages matériels et les incidents imprévus lors des matchs et des compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Collaboration Assureurs FRMF",
+            "patterns": [
+                "collaboration assureurs frmf",
+                "comment frmf collaboretelle compagnies dassurance",
+                "quels partenariats entre frmf assureurs",
+                "quelle nature relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "La FRMF peut collaborer avec les compagnies d'assurance pour élaborer des programmes spécifiques de couverture, négocier des tarifs préférentiels pour ses membres et garantir une protection adéquate pour ses activités et ses parties prenantes..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Clubs FRMF",
+            "patterns": [
+                "assurance clubs frmf",
+                "quel type dassurance clubs affiliés frmf ontils",
+                "comment clubs football sontils assurés frmf",
+                "quelle couverture dassurance offerte clubs frmf"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF peuvent bénéficier d'une assurance couvrant divers aspects, tels que la responsabilité civile, les accidents des joueurs et du personnel, les biens immobiliers et les équipements sportifs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Role FRMF",
+            "patterns": [
+                "role frmf",
+                "quel rôle frmf domaine lassurance",
+                "comment frmf estelle impliquée secteur lassurance",
+                "quelle relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "Le rôle de la FRMF dans le domaine de l'assurance peut varier, mais elle peut être impliquée dans la négociation de polices d'assurance pour les joueurs, les clubs et les événements liés au football..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "quel type dassurance joueurs affiliés frmf ontils",
+                "quelle couverture dassurance offerte joueurs frmf",
+                "comment joueurs sontils assurés frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les accidents et les blessures liées à leur pratique sportive, ainsi que d'autres garanties spécifiques à leur statut de joueur professionnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Evenements FRMF",
+            "patterns": [
+                "assurance evenements frmf",
+                "quels types dassurance frmf souscritelle événements",
+                "comment frmf assuretelle compétitions événements",
+                "quelle couverture dassurance événements organisés frmf"
+            ],
+            "responses": [
+                "La FRMF peut souscrire différentes polices d'assurance pour ses événements, couvrant des aspects tels que la responsabilité civile, les dommages matériels et les incidents imprévus lors des matchs et des compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Collaboration Assureurs FRMF",
+            "patterns": [
+                "collaboration assureurs frmf",
+                "comment frmf collaboretelle compagnies dassurance",
+                "quels partenariats entre frmf assureurs",
+                "quelle nature relation entre frmf compagnies dassurance"
+            ],
+            "responses": [
+                "La FRMF peut collaborer avec les compagnies d'assurance pour élaborer des programmes spécifiques de couverture, négocier des tarifs préférentiels pour ses membres et garantir une protection adéquate pour ses activités et ses parties prenantes..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Clubs FRMF",
+            "patterns": [
+                "assurance clubs frmf",
+                "quel type dassurance clubs affiliés frmf ontils",
+                "comment clubs football sontils assurés frmf",
+                "quelle couverture dassurance offerte clubs frmf"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF peuvent bénéficier d'une assurance couvrant divers aspects, tels que la responsabilité civile, les accidents des joueurs et du personnel, les biens immobiliers et les équipements sportifs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Sportive FRMF",
+            "patterns": [
+                "assurance sportive frmf",
+                "quel rôle frmf lassurance sportive",
+                "comment frmf promeutelle lassurance sportive",
+                "quels services frmf offretelle matière dassurance sportive"
+            ],
+            "responses": [
+                "La FRMF peut jouer un rôle dans la promotion et la sensibilisation à l'importance de l'assurance sportive pour les joueurs, les clubs et les parties prenantes impliquées dans le football. Elle peut également faciliter l'accès à des programmes d'assurance adaptés aux besoins des acteurs du sport..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Formation Assurance Sportive",
+            "patterns": [
+                "formation assurance sportive",
+                "frmf proposetelle formations lassurance sportive",
+                "comment frmf sensibilisetelle membres lassurance sportive",
+                "quels programmes formation frmf offretelle matière dassurance sportive"
+            ],
+            "responses": [
+                "La FRMF peut proposer des programmes de sensibilisation et de formation sur l'assurance sportive, visant à éduquer ses membres sur les risques liés à la pratique sportive et les avantages de souscrire à une couverture d'assurance adéquate..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Sportive Clubs",
+            "patterns": [
+                "assurance sportive clubs",
+                "comment clubs affiliés frmf peuventils souscrire assurance sportive",
+                "quelles options dassurance sportive disponibles clubs football",
+                "comment frmf aidetelle clubs obtenir assurance sportive"
+            ],
+            "responses": [
+                "Les clubs affiliés à la FRMF peuvent bénéficier de l'assistance de la fédération pour souscrire à des polices d'assurance adaptées à leurs besoins spécifiques, couvrant les joueurs, le personnel et les installations sportives..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Responsabilite Civile Sportive",
+            "patterns": [
+                "assurance responsabilite civile sportive",
+                "questce lassurance responsabilité civile sportive comment frmf promeutelle",
+                "quelle limportance lassurance responsabilité civile sportive clubs football selon frmf",
+                "comment clubs peuventils souscrire assurance responsabilité civile sportive laide frmf"
+            ],
+            "responses": [
+                "L'Assurance Responsabilité Civile Sportive couvre les dommages matériels et corporels causés à des tiers pendant la pratique sportive. La FRMF peut promouvoir cette assurance auprès des clubs en soulignant son importance pour se protéger contre les réclamations en cas d'accidents survenus lors des entraînements ou des matchs..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Joueurs FRMF",
+            "patterns": [
+                "assurance joueurs frmf",
+                "comment frmf assuretelle joueurs football contre blessures",
+                "quels types couverture dassurance joueurs affiliés frmf ontils",
+                "quelles garanties incluses lassurance joueurs proposée frmf"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'une assurance couvrant les blessures et les accidents survenus pendant les matchs et les entraînements. Cette assurance peut inclure des prestations telles que les frais médicaux, l'invalidité temporaire ou permanente, et éventuellement une assurance décès et/ou une assistance rapatriement en cas de blessure grave..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Couverture Assurance Sante FRMF",
+            "patterns": [
+                "couverture assurance sante frmf",
+                "quelle couverture dassurance santé offerte frmf membres",
+                "comment frmf assuretelle santé joueurs personnel",
+                "quels avantages lassurance santé proposée frmf"
+            ],
+            "responses": [
+                "La FRMF peut proposer une couverture d'assurance santé pour ses joueurs, son personnel et éventuellement d'autres membres affiliés. Cette assurance peut inclure la prise en charge des frais médicaux, des consultations, des médicaments, des soins dentaires et d'autres services de santé..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Programmes Prevoyance Sante FRMF",
+            "patterns": [
+                "programmes prevoyance sante frmf",
+                "quels programmes prévoyance santé frmf offretelle membres",
+                "comment frmf encouragetelle prévention promotion santé",
+                "quels services prévoyance santé disponibles joueurs clubs affiliés frmf"
+            ],
+            "responses": [
+                "La FRMF peut mettre en place des programmes de prévoyance santé visant à promouvoir la santé et le bien-être de ses membres. Cela peut inclure des initiatives de prévention des blessures, des campagnes de sensibilisation, des bilans de santé réguliers et d'autres services visant à maintenir la santé et la forme physique des joueurs et du personnel..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Acces Assurance Sante FRMF",
+            "patterns": [
+                "acces assurance sante frmf",
+                "comment joueurs clubs affiliés frmf peuventils accéder assurance santé",
+                "quelles démarches suivre bénéficier lassurance santé proposée frmf",
+                "estil obligatoire membres affiliés frmf davoir assurance santé"
+            ],
+            "responses": [
+                "La FRMF peut faciliter l'accès à une assurance santé pour ses membres en négociant des contrats collectifs auprès des compagnies d'assurance. Les joueurs et les clubs affiliés peuvent être encouragés ou même obligés de souscrire à cette assurance pour bénéficier de certains avantages ou participer à certaines compétitions..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Partenariats Assureurs Sante FRMF",
+            "patterns": [
+                "partenariats assureurs sante frmf",
+                "quels partenariats frmf atelle compagnies dassurance santé",
+                "comment frmf sélectionnetelle assureurs santé lesquels travaille",
+                "quels critères devenir partenaire assureur santé frmf"
+            ],
+            "responses": [
+                "La FRMF peut établir des partenariats avec des compagnies d'assurance santé réputées pour offrir des produits et des services de qualité à ses membres. Les critères de sélection peuvent inclure la solidité financière, la réputation, la gamme de produits offerts et la capacité à répondre aux besoins spécifiques des joueurs et des clubs affiliés..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Sante Famille Joueurs",
+            "patterns": [
+                "assurance sante famille joueurs",
+                "joueurs affiliés frmf peuventils bénéficier dune assurance santé famille",
+                "quels avantages lassurance santé familiale joueurs football",
+                "comment frmf soutientelle santé familles joueurs affiliés"
+            ],
+            "responses": [
+                "Les joueurs affiliés à la FRMF peuvent bénéficier d'options d'assurance santé étendues, y compris des programmes permettant de couvrir les membres de leur famille. Cela peut offrir une tranquillité d'esprit supplémentaire aux joueurs et à leur famille en cas de besoins médicaux..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Contact FRMF Assurance",
+            "patterns": [
+                "contact frmf assurance",
+                "comment contacter frmf questions relatives lassurance",
+                "quelle procédure contacter frmf sujet lassurance",
+                "où puisje trouver informations lassurance auprès frmf"
+            ],
+            "responses": [
+                "Vous pouvez contacter la FRMF pour des questions concernant l'assurance en utilisant les coordonnées disponibles sur le site web officiel. Ils peuvent également fournir des informations sur l'assurance lors d'événements ou par le biais de leurs représentants..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assistance Information Assurance",
+            "patterns": [
+                "assistance information assurance",
+                "comment puisje obtenir laide informations assurance frmf",
+                "quels canaux disponibles obtenir informations lassurance auprès frmf",
+                "existetil service dassistance dédié questions dassurance frmf"
+            ],
+            "responses": [
+                "La FRMF peut proposer un service d'assistance dédié pour répondre aux questions et fournir des informations sur l'assurance. Vous pouvez les contacter par téléphone, par e-mail ou en personne pour obtenir de l'aide ou des conseils sur votre assurance..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Demande Documentation Assurance",
+            "patterns": [
+                "demande documentation assurance",
+                "comment puisje obtenir documentation lassurance auprès frmf",
+                "quelle procédure demander documents concernant assurance frmf",
+                "où puisje trouver brochures informations imprimées lassurance frmf"
+            ],
+            "responses": [
+                "Vous pouvez demander de la documentation sur l'assurance auprès de la FRMF en contactant leur service clientèle ou en consultant leur site web officiel. Ils peuvent avoir des brochures, des fiches d'information ou d'autres documents disponibles en ligne ou en version imprimée..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Rendez vous Personnel FRMF",
+            "patterns": [
+                "rendez personnel frmf",
+                "puisje prendre rendezvous représentant frmf discuter assurance",
+                "comment puisje organiser réunion membre personnel frmf discuter lassurance",
+                "estil possible rencontrer quelquun personne frmf questions dassurance"
+            ],
+            "responses": [
+                "Vous pouvez prendre rendez-vous avec un représentant de la FRMF pour discuter de votre assurance en contactant leur service clientèle ou leur département des assurances. Ils pourront organiser une réunion en personne ou virtuelle selon vos préférences et disponibilités..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Feedback Assurance FRMF",
+            "patterns": [
+                "feedback assurance frmf",
+                "comment puisje donner feedback expérience dassurance frmf",
+                "existetil moyen fournir commentaires services dassurance frmf",
+                "où puisje partager impressions lassurance proposée frmf"
+            ],
+            "responses": [
+                "Vous pouvez donner votre feedback sur votre expérience d'assurance avec la FRMF en les contactant directement par téléphone, par e-mail ou en remplissant un formulaire de feedback disponible sur leur site web. Vos commentaires peuvent les aider à améliorer leurs services et à mieux répondre à vos besoins..."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Remboursement Consultation",
+            "patterns": [
+                "remboursement consultation",
+                "comment fonctionne remboursement consultations médicales",
+                "quels critères obtenir remboursement consultations médicales",
+                "processus remboursement consultations médicales"
+            ],
+            "responses": [
+                "Le remboursement des consultations médicales dépend du contrat d'assurance santé souscrit. En général, les consultations médicales sont remboursées selon un pourcentage prédéterminé ou un montant forfaitaire, après déduction des éventuelles franchises ou participations de l'assuré."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Prise En Charge Hospitalisation",
+            "patterns": [
+                "prise charge hospitalisation",
+                "comment fonctionne prise charge frais dhospitalisation",
+                "quelles conditions bénéficier prise charge frais dhospitalisation",
+                "processus prise charge frais dhospitalisation"
+            ],
+            "responses": [
+                "La prise en charge des frais d'hospitalisation varie en fonction du contrat d'assurance santé. Généralement, les frais d'hospitalisation sont pris en charge après vérification de l'admission à l'hôpital et selon les termes et conditions du contrat, incluant éventuellement des limitations de durée ou de montant."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Résiliation Contrat Assurance",
+            "patterns": [
+                "résiliation contrat assurance",
+                "comment résilier contrat dassurance santé",
+                "quels délais procédures résilier contrat dassurance santé",
+                "processus résiliation dun contrat dassurance santé"
+            ],
+            "responses": [
+                "La résiliation d'un contrat d'assurance santé peut être effectuée selon les modalités prévues par la législation en vigueur et les clauses contractuelles. Généralement, un préavis doit être donné à l'assureur et des conditions spécifiques peuvent s'appliquer en fonction de la durée du contrat et de la raison de la résiliation."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Demande Remboursement",
+            "patterns": [
+                "demande remboursement",
+                "comment puisje faire demande remboursement",
+                "quels documents nécessaires demande remboursement",
+                "processus demande remboursement"
+            ],
+            "responses": [
+                "Pour faire une demande de remboursement, vous devez généralement remplir un formulaire spécifique fourni par votre assureur santé. Vous devrez également fournir des documents justificatifs tels que des factures médicales, des ordonnances et des reçus. Une fois la demande soumise, elle sera traitée selon les délais et procédures de remboursement de votre contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Couverture Maladies Chroniques",
+            "patterns": [
+                "couverture maladies chroniques",
+                "quelle couverture maladies chroniques",
+                "traitements maladies chroniques sontils couverts lassurance santé",
+                "prise charge maladies chroniques"
+            ],
+            "responses": [
+                "La couverture pour les maladies chroniques dépend de votre contrat d'assurance santé. Certains contrats peuvent inclure une prise en charge spécifique pour les traitements et les soins liés aux maladies chroniques, tandis que d'autres peuvent imposer des conditions particulières ou des limitations. Il est important de vérifier les détails de votre couverture avec votre assureur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assistance Medicale Urgence",
+            "patterns": [
+                "assistance medicale urgence",
+                "doisje faire cas durgence médicale",
+                "comment bénéficier lassistance médicale cas durgence",
+                "procédure suivre cas durgence médicale"
+            ],
+            "responses": [
+                "En cas d'urgence médicale, vous devez contacter immédiatement les services d'urgence locaux (comme le 15 en France) ou le numéro d'assistance médicale fourni par votre assureur. Suivez les instructions données et conservez tous les documents médicaux pour une éventuelle demande de remboursement ultérieure. Certains contrats d'assurance santé offrent également une assistance médicale spécifique en cas d'urgence à l'étranger."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Prévention Maladies",
+            "patterns": [
+                "prévention maladies",
+                "quelles mesures prévention couvertes lassurance santé",
+                "comment prévenir certaines maladies assurance santé",
+                "programmes prévention maladies"
+            ],
+            "responses": [
+                "Certaines assurances santé proposent des programmes de prévention couvrant des services tels que les bilans de santé, les vaccinations, les consultations de prévention et les programmes d'accompagnement pour le sevrage tabagique ou la gestion du stress. Vérifiez les détails de votre contrat pour connaître les mesures de prévention couvertes."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Services Complémentaires",
+            "patterns": [
+                "services complémentaires",
+                "quels services complémentaires proposés assurance santé",
+                "services additionnels offerts assureur santé",
+                "avantages complémentaires contrat dassurance santé"
+            ],
+            "responses": [
+                "En plus de la couverture médicale de base, de nombreux contrats d'assurance santé proposent des services complémentaires tels que l'accès à des réseaux de soins spécialisés, des programmes de bien-être, des remboursements pour les médecines douces ou alternatives, et des services d'assistance téléphonique pour des conseils médicaux ou administratifs."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Évolution Contrat Assurance",
+            "patterns": [
+                "évolution contrat assurance",
+                "comment puisje faire évoluer contrat dassurance santé",
+                "modification garanties assurance santé",
+                "processus mise jour contrat dassurance santé"
+            ],
+            "responses": [
+                "Pour faire évoluer votre contrat d'assurance santé, vous pouvez contacter votre assureur pour discuter des options disponibles. Cela peut inclure l'ajout de garanties supplémentaires, la modification des niveaux de couverture, ou l'adaptation de votre contrat en fonction de changements dans votre situation personnelle ou professionnelle. Des conditions spécifiques peuvent s'appliquer en fonction de votre contrat et de la politique de l'assureur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Frais Pharmaceutiques",
+            "patterns": [
+                "frais pharmaceutiques",
+                "comment fonctionne remboursement frais pharmaceutiques",
+                "quels médicaments couverts assurance santé",
+                "processus remboursement médicaments"
+            ],
+            "responses": [
+                "Le remboursement des frais pharmaceutiques dépend de votre contrat d'assurance santé. En général, certains médicaments peuvent être remboursés selon une liste prédéfinie appelée la liste des médicaments remboursables. Le remboursement peut être partiel ou total, en fonction des conditions spécifiées dans votre contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Soins Dentaires",
+            "patterns": [
+                "soins dentaires",
+                "quelle couverture soins dentaires",
+                "soins dentaires sontils inclus assurance santé",
+                "prise charge soins dentaires"
+            ],
+            "responses": [
+                "La couverture pour les soins dentaires peut varier selon votre contrat d'assurance santé. Certains contrats offrent une prise en charge des soins dentaires de base tels que les consultations, les soins préventifs et les radiographies, tandis que d'autres peuvent proposer une couverture plus étendue incluant les traitements orthodontiques ou les prothèses dentaires."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Gestion Stress",
+            "patterns": [
+                "atil programmes gestion stress inclus assurance santé",
+                "comment puisje bénéficier programmes gestion stress",
+                "services bienêtre gestion stress"
+            ],
+            "responses": [
+                "Certains contrats d'assurance santé proposent des programmes de gestion du stress ou des services de bien-être pour aider les assurés à faire face au stress quotidien. Cela peut inclure des séances de méditation, des conseils en gestion du temps, des consultations psychologiques ou des séminaires sur la gestion du stress."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Frais Pharmaceutiques",
+            "patterns": [
+                "frais pharmaceutiques",
+                "comment fonctionne remboursement frais pharmaceutiques",
+                "quels médicaments couverts assurance santé",
+                "processus remboursement médicaments"
+            ],
+            "responses": [
+                "Le remboursement des frais pharmaceutiques dépend de votre contrat d'assurance santé. En général, certains médicaments peuvent être remboursés selon une liste prédéfinie appelée la liste des médicaments remboursables. Le remboursement peut être partiel ou total, en fonction des conditions spécifiées dans votre contrat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Soins Dentaires",
+            "patterns": [
+                "soins dentaires",
+                "quelle couverture soins dentaires",
+                "soins dentaires sontils inclus assurance santé",
+                "prise charge soins dentaires"
+            ],
+            "responses": [
+                "La couverture pour les soins dentaires peut varier selon votre contrat d'assurance santé. Certains contrats offrent une prise en charge des soins dentaires de base tels que les consultations, les soins préventifs et les radiographies, tandis que d'autres peuvent proposer une couverture plus étendue incluant les traitements orthodontiques ou les prothèses dentaires."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Gestion Stress",
+            "patterns": [
+                "gestion stress",
+                "atil programmes gestion stress inclus assurance santé",
+                "comment puisje bénéficier programmes gestion stress",
+                "services bienêtre gestion stress"
+            ],
+            "responses": [
+                "Certains contrats d'assurance santé proposent des programmes de gestion du stress ou des services de bien-être pour aider les assurés à faire face au stress quotidien. Cela peut inclure des séances de méditation, des conseils en gestion du temps, des consultations psychologiques ou des séminaires sur la gestion du stress."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Consultations Spécialistes",
+            "patterns": [
+                "consultations spécialistes",
+                "comment remboursées consultations chez spécialistes",
+                "quels spécialistes couverts assurance santé",
+                "processus remboursement consultations chez spécialistes"
+            ],
+            "responses": [
+                "Le remboursement des consultations chez les spécialistes dépend de votre contrat d'assurance santé. En général, les consultations chez les spécialistes sont remboursées selon les mêmes modalités que les consultations médicales générales, mais peuvent être soumises à des conditions spécifiques ou à des limitations de couverture en fonction du spécialiste consulté."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Suivi Médical",
+            "patterns": [
+                "suivi médical",
+                "quels services suivi médical proposés assurance santé",
+                "comment bénéficier programmes suivi médical",
+                "services suivi médical inclus contrat dassurance santé"
+            ],
+            "responses": [
+                "Certains contrats d'assurance santé offrent des services de suivi médical pour aider les assurés à maintenir leur santé à long terme. Cela peut inclure des programmes de dépistage, des consultations de suivi avec des professionnels de santé, des rappels pour les examens médicaux périodiques et des outils de suivi en ligne pour surveiller les indicateurs de santé."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assistance Voyage",
+            "patterns": [
+                "assistance voyage",
+                "quelle lassistance voyage incluse assurance santé",
+                "services dassistance voyage offerts assureur santé",
+                "couverture médicale cas voyage létranger"
+            ],
+            "responses": [
+                "Certains contrats d'assurance santé offrent une assistance voyage pour couvrir les frais médicaux en cas de maladie ou de blessure pendant un voyage à l'étranger. Cela peut inclure la prise en charge des frais médicaux d'urgence, le rapatriement sanitaire, l'assistance linguistique et administrative, ainsi que la garantie de paiement direct des frais médicaux auprès des prestataires de soins à l'étranger."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Couverture Médicale Equipes",
+            "patterns": [
+                "couverture médicale equipes",
+                "quelle couverture médicale équipes football sous frmf",
+                "assurance santé joueurs football sous frmf",
+                "procédure prise charge médicale joueurs football"
+            ],
+            "responses": [
+                "Les équipes de football affiliées à la FRMF bénéficient d'une couverture médicale complète pour leurs joueurs. Cela comprend la prise en charge des frais médicaux en cas de blessures pendant les matchs officiels, les entraînements et les stages, ainsi que des examens médicaux réguliers pour assurer la santé et le bien-être des joueurs."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Rééducation Post Blessure",
+            "patterns": [
+                "rééducation post blessure",
+                "comment déroule rééducation après blessure joueurs football sous frmf",
+                "services rééducation postblessure footballeurs sous frmf",
+                "procédure suivi médical rééducation blessures"
+            ],
+            "responses": [
+                "Après une blessure, les joueurs de football sous la FRMF bénéficient d'un suivi médical et d'une rééducation personnalisée pour faciliter leur récupération et leur retour sur le terrain. Cela comprend des séances de rééducation physique, des consultations avec des spécialistes, et un suivi régulier pour surveiller la progression et garantir une récupération optimale."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Voyage Equipes",
+            "patterns": [
+                "assurance voyage equipes",
+                "quelle lassurance voyage équipes football affiliées frmf",
+                "couverture médicale lors déplacements équipes football sous frmf",
+                "procédure dassistance médicale cas voyage"
+            ],
+            "responses": [
+                "Les équipes de football affiliées à la FRMF bénéficient d'une assurance voyage complète lors de leurs déplacements pour les matchs nationaux et internationaux. Cela inclut la couverture des frais médicaux d'urgence, le rapatriement sanitaire, et l'assistance linguistique et administrative en cas de besoin pendant les voyages."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Procédure Déclaration Blessure",
+            "patterns": [
+                "procédure déclaration blessure",
+                "quelle procédure déclarer blessure joueurs sous frmf",
+                "comment signaler blessure footballeurs affiliés frmf",
+                "déclaration blessure membres équipes football"
+            ],
+            "responses": [
+                "En cas de blessure, les joueurs sous la FRMF doivent signaler immédiatement l'incident au staff médical de leur équipe. Une évaluation médicale sera effectuée, et la blessure sera enregistrée dans les dossiers médicaux de la FRMF. Selon la gravité de la blessure, un plan de traitement approprié sera mis en place pour assurer une récupération optimale du joueur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Responsabilité Civile",
+            "patterns": [
+                "assurance responsabilité civile",
+                "quelle couverture matière dassurance responsabilité civile clubs affiliés frmf",
+                "assurance responsabilité civile clubs football sous frmf",
+                "procédure cas réclamation dommages"
+            ],
+            "responses": [
+                "Les clubs de football affiliés à la FRMF bénéficient d'une assurance responsabilité civile qui couvre les dommages matériels ou corporels causés à des tiers pendant l'exercice de leurs activités sportives. En cas de réclamation, les clubs doivent signaler immédiatement l'incident à leur assureur et fournir toute documentation nécessaire pour enquêter sur la réclamation et procéder à un règlement équitable."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Contrôle Antidopage",
+            "patterns": [
+                "contrôle antidopage",
+                "quels protocoles contrôle antidopage joueurs sous frmf",
+                "procédure contrôle antidopage footballeurs affiliés frmf",
+                "règles réglementations matière lutte contre dopage"
+            ],
+            "responses": [
+                "La FRMF applique des protocoles stricts de contrôle antidopage conformément aux règles et réglementations de la FIFA et de l'AMA (Agence Mondiale Antidopage). Les joueurs peuvent être soumis à des tests antidopage avant, pendant et après les matchs pour garantir l'intégrité et l'équité dans le sport."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Programmes Prévention Blessures",
+            "patterns": [
+                "programmes prévention blessures",
+                "quels programmes prévention blessures joueurs sous frmf",
+                "initiatives prévention blessures footballeurs affiliés frmf",
+                "comment réduire risques blessures joueurs football"
+            ],
+            "responses": [
+                "La FRMF met en place des programmes de prévention des blessures visant à réduire les risques de blessures chez les joueurs. Cela peut inclure des séances d'échauffement spécifiques, des programmes de renforcement musculaire, des séances de récupération active et des conseils sur la nutrition et l'hygiène de vie pour maintenir la condition physique des joueurs."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Assurance Maladie Personnel Administratif",
+            "patterns": [
+                "assurance maladie personnel administratif",
+                "quelle couverture assurance maladie personnel administratif frmf",
+                "assurance santé personnel frmf hors joueurs",
+                "procédure prise charge médicale personnel administratif"
+            ],
+            "responses": [
+                "Le personnel administratif de la FRMF bénéficie également d'une couverture en assurance maladie pour leurs besoins de santé. Cela comprend la prise en charge des consultations médicales, des médicaments prescrits et des soins médicaux généraux. Les modalités de prise en charge peuvent varier en fonction du contrat d'assurance santé souscrit par la FRMF pour son personnel."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Gestion Sinistres",
+            "patterns": [
+                "gestion sinistres",
+                "comment gérée procédure sinistre clubs sous frmf",
+                "procédure gestion réclamations clubs football affiliés frmf",
+                "réponse cas dincidents sinistres"
+            ],
+            "responses": [
+                "En cas d'incidents ou de sinistres, les clubs sous la FRMF doivent signaler l'événement à leur assureur dans les délais impartis et fournir toute documentation nécessaire pour traiter la réclamation. L'assureur examinera la réclamation et procédera à un règlement équitable en conformité avec les termes du contrat d'assurance et les réglementations en vigueur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Utilisation du capteur",
+            "patterns": [
+                "utilisation capteur",
+                "quelles étapes joueurs doivent suivre utiliser correctement capteur"
+            ],
+            "responses": [
+                "Les joueurs doivent allumer leur capteur avant de jouer et télécharger leurs données à la fin de la session ou du match. Chaque joueur se voit attribuer un numéro de capteur, crucial pour le support technique en cas de problème."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Charge de travail",
+            "patterns": [
+                "charge travail",
+                "comment calculée charge travail"
+            ],
+            "responses": [
+                "La charge de travail correspond à la quantité de travail réalisée par le joueur, calculée en fonction du temps de déplacement et de la vitesse. La formule de calcul utilisée prend en compte le temps de séance et la vitesse de déplacement élevée au carré à chaque seconde. Plus un joueur se déplace longtemps et vite, plus sa charge d'entraînement est importante."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Statistiques",
+            "patterns": [
+                "statistiques",
+                "pourquoi atil différences entre statistiques lapplication plateforme"
+            ],
+            "responses": [
+                "Les algorithmes de la plateforme détectent les périodes de jeu effectives par rapport aux périodes de repos. Les statistiques sur l’application ne prennent en compte que la période de jeu effectives, alors que celles sur la plateforme coach dépendent des dates de début/fin de la séance et des exercices."
+            ],
+            "context": ""
+        },
+        {
+            "tag": "Support technique",
+            "patterns": [
+                "support technique",
+                "faire si lun joueurs na plus batterie téléphone",
+                "joueur parti sans télécharger correctement données",
+                "joueur na stats"
+            ],
+            "responses": [
+                "L'équipe technique peut allumer le capteur et télécharger ses données à sa place. Ensuite, ils doivent contacter le support avec le numéro de capteur et le nom du joueur pour attribuer manuellement la session.",
+                "L'équipe technique peut télécharger les données pour lui et contacter le support avec les informations mentionnées ci-dessus.",
+                "Il faut vérifier que le capteur a été correctement allumé et que les données ont été téléchargées. Si le problème persiste, contacter le support avec les informations spécifiées."
+            ],
+            "context": ""
+        }
+    ]
+}
